@@ -90,8 +90,8 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-06-29,Charsadda,Cotton,29.0,54.1,176.1,10428060,4.53,5.71,28.6,Drip
 2018-10-30,Charsadda,Rice,25.0,41.5,223.2,3546980,1.34,4.33,35.9,Sprinkler
 2024-07-17,Mardan,Rice,35.7,15.8,223.6,24586380,10.27,19.2,46.6,Sprinkler
-2024-11-12,Charsadda,Sugarcane,15.9,,291.6,20915590,6.53,264.4,41.8,Flood
-2022-12-27,Dir,Rice,21.8,23.6,,18745020,11.02,20.5,38.3,Drip
+2024-11-12,Charsadda,Sugarcane,15.9,51.9,291.6,20915590,6.53,264.4,41.8,Flood
+2022-12-27,Dir,Rice,21.8,23.6,224.6,18745020,11.02,20.5,38.3,Drip
 2018-10-04,Mardan,Rice,20.2,12.1,242.1,1398100,0.55,1.23,43.5,Flood
 2021-04-22,Dir,Cotton,27.5,76.7,280.6,25797060,7.22,12.49,40.6,Flood
 2020-06-26,Swat,Maize,33.3,24.5,209.6,13811900,5.9,10.68,35.3,Flood
@@ -105,7 +105,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-10-15,Buner,Maize,32.5,71.0,200.5,22833150,8.41,24.22,31.8,Drip
 2023-10-08,Charsadda,Cotton,19.0,24.1,158.1,6577420,3.61,3.97,34.8,Sprinkler
 2021-07-04,Charsadda,Rice,12.6,23.6,355.6,7166880,1.89,5.22,46.0,Flood
-2021-09-25,Charsadda,Wheat,17.1,,187.4,16991340,5.63,12.27,45.3,Sprinkler
+2021-09-25,Charsadda,Wheat,17.1,51.9,187.4,16991340,5.63,12.27,45.3,Sprinkler
 2018-01-21,Peshawar,Rice,35.1,45.8,278.2,15357600,4.74,13.79,49.1,Drip
 2019-06-06,Mardan,Maize,33.8,12.8,215.2,10442400,4.58,10.63,36.0,Sprinkler
 2018-01-16,Charsadda,Cotton,10.9,72.2,272.3,2032550,0.59,0.86,48.4,Flood
@@ -160,7 +160,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-02-02,Peshawar,Rice,22.7,78.8,165.8,22527660,9.21,19.16,32.5,Flood
 2021-07-26,Charsadda,Rice,30.5,13.3,132.7,15154800,10.38,19.0,40.2,Drip
 2022-10-08,Dir,Cotton,25.7,54.6,127.4,6916000,3.8,5.32,35.4,Drip
-2020-04-02,Peshawar,Cotton,27.8,24.8,,5319470,4.93,6.85,27.7,Drip
+2020-04-02,Peshawar,Cotton,27.8,24.8,224.6,5319470,4.93,6.85,27.7,Drip
 2023-10-13,Mardan,Wheat,33.1,204.5,269.2,3931710,0.83,2.07,52.0,Flood
 2018-02-11,Mardan,Rice,23.4,57.1,172.0,12463040,5.44,12.13,41.3,Sprinkler
 2021-04-22,Mardan,Maize,14.8,132.6,222.6,19678080,5.54,18.89,44.5,Sprinkler
@@ -195,7 +195,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-04-23,Mardan,Maize,22.5,47.6,329.9,6040000,1.6,6.29,46.7,Sprinkler
 2019-06-17,Dir,Cotton,28.2,101.2,314.6,48274380,11.61,24.73,52.5,Flood
 2020-12-13,Buner,Cotton,28.0,140.8,243.0,5872140,1.53,3.14,45.2,Flood
-2023-09-17,Mardan,Rice,15.7,184.7,,42549480,10.86,28.34,51.8,Flood
+2023-09-17,Mardan,Rice,15.7,184.7,224.6,42549480,10.86,28.34,51.8,Flood
 2020-03-03,Buner,Rice,24.2,34.5,216.9,12067200,4.8,13.01,36.1,Drip
 2022-08-14,Mardan,Sugarcane,41.7,8.9,205.1,23968000,11.2,304.75,29.1,Drip
 2023-10-16,Dir,Maize,18.5,6.4,241.0,6852980,2.77,7.53,31.0,Flood
@@ -211,7 +211,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-07-10,Charsadda,Wheat,27.9,81.8,245.4,5496960,1.68,3.88,37.3,Flood
 2021-04-24,Swat,Rice,13.7,37.4,180.3,17677240,8.12,9.99,31.9,Flood
 2022-11-21,Charsadda,Wheat,26.4,91.8,259.3,13938670,3.97,10.88,45.3,Drip
-2021-02-13,Charsadda,Cotton,27.4,85.4,,28550940,10.86,16.83,32.7,Flood
+2021-02-13,Charsadda,Cotton,27.4,85.4,224.6,28550940,10.86,16.83,32.7,Flood
 2023-11-30,Mardan,Cotton,33.0,78.8,176.8,10505160,4.11,4.77,36.1,Flood
 2021-05-16,Charsadda,Rice,18.3,75.9,229.2,33469470,10.97,29.4,36.9,Sprinkler
 2024-12-11,Swat,Rice,19.3,98.2,156.3,17891350,7.03,17.01,39.9,Sprinkler
@@ -280,7 +280,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-12-23,Buner,Wheat,6.9,59.5,317.5,17153500,4.55,8.55,41.8,Flood
 2023-09-04,Buner,Sugarcane,29.7,157.5,390.1,50269680,9.18,561.17,56.9,Flood
 2022-05-17,Swat,Cotton,29.0,43.0,326.3,15510600,4.2,9.24,46.9,Flood
-2020-09-29,Mardan,Rice,26.4,,75.1,5581440,5.44,9.57,22.7,Drip
+2020-09-29,Mardan,Rice,26.4,51.9,75.1,5581440,5.44,9.57,22.7,Drip
 2020-05-09,Charsadda,Cotton,21.9,119.6,212.4,16932000,5.1,9.79,47.5,Flood
 2020-07-17,Mardan,Rice,24.5,74.7,342.2,22137390,5.31,17.89,46.1,Flood
 2022-04-01,Mardan,Wheat,30.7,22.7,149.3,15204800,8.84,11.4,,Drip
@@ -336,7 +336,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-03-11,Mardan,Rice,33.1,65.2,119.7,11186450,6.05,12.1,28.5,Drip
 2022-04-23,Charsadda,Sugarcane,28.8,26.7,267.4,20439950,6.95,387.39,39.6,Drip
 2024-05-22,Dir,Maize,18.6,71.4,235.7,14188020,4.62,12.66,37.7,Flood
-2020-06-12,Swat,Maize,28.2,,82.7,20372050,10.55,25.21,31.4,Drip
+2020-06-12,Swat,Maize,28.2,51.9,82.7,20372050,10.55,25.21,31.4,Drip
 2021-10-18,Swat,Cotton,30.8,5.9,278.2,18438090,6.49,9.54,39.4,Flood
 2019-11-08,Dir,Wheat,20.1,20.9,174.7,6357000,3.25,6.21,31.3,Flood
 2023-01-17,Peshawar,Rice,27.9,4.5,217.9,14945280,6.72,18.61,30.0,Drip
@@ -382,7 +382,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-09-23,Buner,Wheat,16.6,59.4,143.0,11718960,5.79,9.44,27.1,Sprinkler
 2018-11-25,Dir,Maize,36.5,48.6,331.5,44699760,11.76,40.34,42.9,Sprinkler
 2021-02-19,Dir,Sugarcane,23.6,108.2,313.9,29293740,6.94,304.74,48.9,Flood
-2018-02-26,Swat,Wheat,24.8,91.0,,15867440,4.82,12.44,39.4,Flood
+2018-02-26,Swat,Wheat,24.8,91.0,224.6,15867440,4.82,12.44,39.4,Flood
 2020-04-12,Buner,Wheat,33.5,27.5,283.8,3642210,1.17,2.33,42.7,Drip
 2019-03-17,Buner,Sugarcane,39.2,78.4,224.1,9014500,2.98,82.7,44.0,Flood
 2019-10-16,Buner,Wheat,28.0,60.2,112.9,16357950,9.45,15.4,31.9,Drip
@@ -585,7 +585,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-08-31,Buner,Sugarcane,23.6,42.9,199.2,2251530,0.93,43.64,36.5,Drip
 2018-02-22,Mardan,Sugarcane,22.8,71.2,331.3,28899500,7.18,366.32,42.4,Flood
 2020-06-07,Dir,Cotton,20.5,42.3,282.2,19177950,5.91,9.93,33.8,Flood
-2023-04-11,Charsadda,Maize,34.4,,88.9,13245930,7.11,12.87,36.0,Drip
+2023-04-11,Charsadda,Maize,34.4,51.9,88.9,13245930,7.11,12.87,36.0,Drip
 2022-04-26,Buner,Rice,27.6,20.3,40.0,4058190,6.73,14.4,22.7,Sprinkler
 2023-07-13,Dir,Maize,19.5,112.9,111.6,3704250,1.65,4.04,38.1,Drip
 2023-05-13,Dir,Maize,22.2,48.9,197.3,22428820,9.11,27.33,37.9,Flood
@@ -689,7 +689,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-06-16,Peshawar,Wheat,39.7,158.2,345.0,35727200,7.1,16.33,54.8,Sprinkler
 2023-06-27,Mardan,Sugarcane,38.9,173.7,272.0,43099190,9.67,466.0,57.1,Sprinkler
 2021-05-21,Charsadda,Cotton,22.4,98.3,265.0,35385420,9.74,19.77,42.2,Flood
-2019-08-21,Dir,Maize,23.4,,172.1,7267260,3.63,9.4,22.5,Drip
+2019-08-21,Dir,Maize,23.4,51.9,172.1,7267260,3.63,9.4,22.5,Drip
 2018-05-28,Charsadda,Wheat,22.6,67.3,155.6,7912950,3.55,5.04,25.7,Drip
 2022-05-07,Dir,Maize,20.7,54.9,247.3,22906760,7.58,20.16,41.6,Sprinkler
 2019-02-13,Dir,Cotton,18.6,33.1,321.8,17248140,4.86,8.21,46.2,Flood
@@ -766,7 +766,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-10-22,Mardan,Maize,22.3,40.4,420.0,31951760,6.94,36.5,50.7,Sprinkler
 2018-07-06,Charsadda,Rice,31.1,100.1,207.2,34632710,11.27,31.11,45.1,Sprinkler
 2020-06-15,Peshawar,Rice,26.3,37.7,186.6,8882280,3.96,8.28,31.8,Drip
-2018-07-26,Mardan,Maize,27.8,167.3,,5191440,0.97,4.35,56.5,Flood
+2018-07-26,Mardan,Maize,27.8,167.3,224.6,5191440,0.97,4.35,56.5,Flood
 2019-03-23,Buner,Rice,17.1,10.2,256.0,15519460,5.83,10.32,46.3,Sprinkler
 2022-09-22,Mardan,Sugarcane,19.7,103.0,145.8,2438240,0.98,34.29,41.3,Flood
 2021-12-23,Peshawar,Sugarcane,19.8,43.3,366.7,14268000,3.48,199.86,54.1,Flood
@@ -885,7 +885,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-06-09,Buner,Cotton,20.3,47.9,245.9,4965220,1.69,3.01,36.6,Flood
 2021-01-24,Charsadda,Maize,22.0,33.1,269.3,33959520,11.23,36.27,41.4,Flood
 2022-02-08,Charsadda,Wheat,24.9,152.3,260.7,28910000,7.0,18.27,55.7,Flood
-2019-05-31,Buner,Wheat,27.3,52.0,,28730880,9.28,15.78,44.4,Flood
+2019-05-31,Buner,Wheat,27.3,52.0,224.6,28730880,9.28,15.78,44.4,Flood
 2020-07-05,Swat,Wheat,24.7,53.0,240.1,17879100,6.1,11.83,30.6,Drip
 2021-08-05,Buner,Cotton,22.1,113.0,251.7,18599700,5.1,7.8,48.9,Flood
 2021-10-22,Swat,Wheat,38.7,13.0,134.1,12680020,8.62,8.96,21.7,Drip
@@ -906,14 +906,14 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-10-21,Mardan,Maize,30.4,27.7,156.9,16226340,8.79,17.67,30.0,Flood
 2021-03-01,Charsadda,Cotton,23.3,41.1,172.7,23175920,10.84,19.51,28.9,Drip
 2020-06-01,Mardan,Maize,31.3,87.4,306.7,41459320,10.52,41.13,56.0,Flood
-2019-07-12,Swat,Maize,29.3,,204.6,18405900,4.59,19.51,60.5,Drip
+2019-07-12,Swat,Maize,29.3,51.9,204.6,18405900,4.59,19.51,60.5,Drip
 2021-09-17,Mardan,Rice,33.0,42.2,153.8,9153200,4.67,7.19,38.7,Sprinkler
 2018-01-19,Buner,Wheat,40.2,78.3,198.0,15970140,5.78,7.28,42.9,Sprinkler
 2023-03-15,Charsadda,Cotton,43.3,46.6,202.4,3859500,1.55,1.5,31.4,Flood
 2022-10-02,Swat,Wheat,30.1,23.9,211.8,2380570,1.01,1.35,41.6,Flood
 2023-05-24,Mardan,Maize,21.8,30.6,213.9,1295850,0.53,1.52,38.9,Sprinkler
 2023-09-17,Dir,Wheat,25.4,126.9,285.3,27122760,6.58,22.17,45.5,Flood
-2024-03-17,Peshawar,Wheat,36.0,,207.6,16270080,6.69,8.5,39.6,Flood
+2024-03-17,Peshawar,Wheat,36.0,51.9,207.6,16270080,6.69,8.5,39.6,Flood
 2019-01-13,Mardan,Maize,18.7,142.3,133.8,3837790,1.39,4.3,39.0,Drip
 2023-11-04,Peshawar,Sugarcane,35.1,53.8,301.2,9017000,2.54,89.59,48.6,Flood
 2021-12-11,Charsadda,Sugarcane,23.8,57.2,119.3,15937950,9.03,310.09,37.8,Drip
@@ -954,7 +954,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-10-02,Peshawar,Rice,25.2,57.1,91.5,12006880,8.08,11.8,25.8,Flood
 2020-03-07,Mardan,Wheat,24.1,46.2,138.5,3638590,1.97,3.29,32.1,Drip
 2023-10-31,Charsadda,Rice,25.2,58.4,253.4,9135740,2.93,9.67,32.6,Sprinkler
-2019-01-07,Peshawar,Maize,35.3,89.7,,38857110,9.91,33.99,45.4,Flood
+2019-01-07,Peshawar,Maize,35.3,89.7,224.6,38857110,9.91,33.99,45.4,Flood
 2023-03-11,Mardan,Maize,27.1,130.4,200.1,21978250,6.65,24.8,54.9,Flood
 2018-09-27,Peshawar,Wheat,33.7,15.8,212.7,5803900,2.54,2.92,40.5,Flood
 2020-05-10,Dir,Maize,23.4,43.4,223.2,21301340,7.99,25.17,41.1,Sprinkler
@@ -1057,7 +1057,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-01-13,Dir,Wheat,32.7,84.3,261.1,8393220,2.43,4.45,30.1,Flood
 2024-09-29,Mardan,Wheat,31.8,41.8,229.1,9400230,3.47,4.93,39.4,Flood
 2019-07-15,Charsadda,Maize,35.5,55.0,156.0,8461100,4.01,7.42,37.0,Flood
-2023-06-01,Mardan,Sugarcane,21.4,115.2,,36083880,11.34,378.76,41.9,Flood
+2023-06-01,Mardan,Sugarcane,21.4,115.2,224.6,36083880,11.34,378.76,41.9,Flood
 2019-06-15,Swat,Cotton,27.1,65.2,157.3,15641750,7.03,9.77,36.7,Sprinkler
 2018-01-02,Charsadda,Maize,16.7,80.1,388.5,16916460,3.61,16.21,64.8,Sprinkler
 2019-09-08,Charsadda,Rice,24.6,52.4,304.7,10605870,2.97,12.24,42.1,Drip
@@ -1077,7 +1077,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-03-28,Buner,Maize,28.0,54.1,200.4,14124750,5.55,15.98,26.6,Sprinkler
 2022-09-08,Charsadda,Maize,9.7,20.5,141.0,9221650,5.71,9.82,28.5,Drip
 2021-05-08,Buner,Rice,29.3,45.9,174.2,22648290,10.29,20.37,34.2,Sprinkler
-2021-03-21,Mardan,Wheat,23.8,,179.3,18880450,8.41,16.65,40.5,Drip
+2021-03-21,Mardan,Wheat,23.8,51.9,179.3,18880450,8.41,16.65,40.5,Drip
 2024-01-20,Dir,Cotton,27.8,47.2,260.9,11676990,3.79,7.54,38.4,Drip
 2023-09-24,Dir,Wheat,20.8,21.7,40.0,394880,0.64,0.82,27.9,Drip
 2019-09-16,Dir,Wheat,18.4,156.6,174.2,15977640,4.83,10.58,50.3,Flood
@@ -1269,7 +1269,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-09-06,Mardan,Sugarcane,24.3,30.5,167.4,17652680,8.92,300.6,36.7,Drip
 2019-01-01,Dir,Wheat,24.1,41.7,350.8,43135750,10.99,23.96,51.0,Flood
 2023-01-24,Buner,Wheat,21.4,38.6,243.0,26301440,9.34,15.69,39.7,Flood
-2019-11-20,Mardan,Maize,33.2,53.6,,34280630,9.41,27.76,38.5,Flood
+2019-11-20,Mardan,Maize,33.2,53.6,224.6,34280630,9.41,27.76,38.5,Flood
 2024-02-21,Buner,Wheat,25.7,77.3,304.0,34050090,8.93,18.93,52.2,Flood
 2018-12-24,Dir,Maize,9.7,68.4,82.8,7605360,5.03,8.5,21.9,Drip
 2021-08-13,Charsadda,Wheat,33.4,26.2,294.9,36862280,11.48,23.88,35.0,Flood
@@ -1282,11 +1282,11 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-03-14,Charsadda,Sugarcane,26.4,19.9,150.8,19715850,11.55,263.46,37.2,Flood
 2021-08-26,Charsadda,Wheat,31.3,28.6,240.1,21764700,8.1,12.47,35.4,Flood
 2021-09-13,Mardan,Rice,26.0,42.5,186.2,25751620,11.26,26.01,31.0,Sprinkler
-2022-03-30,Charsadda,Wheat,33.4,27.7,,24426900,7.47,13.67,35.3,Sprinkler
+2022-03-30,Charsadda,Wheat,33.4,27.7,224.6,24426900,7.47,13.67,35.3,Sprinkler
 2020-12-07,Mardan,Cotton,26.1,29.1,203.6,16870750,7.25,7.83,35.7,Flood
 2018-12-01,Buner,Maize,25.6,29.1,150.7,20838820,11.59,18.78,32.8,Flood
 2018-03-16,Dir,Maize,31.2,57.6,189.3,28072530,11.37,34.11,49.3,Sprinkler
-2021-10-11,Swat,Cotton,22.2,,177.3,16112000,8.48,10.85,34.7,Sprinkler
+2021-10-11,Swat,Cotton,22.2,51.9,177.3,16112000,8.48,10.85,34.7,Sprinkler
 2019-04-21,Buner,Rice,17.3,87.2,188.3,5014100,1.82,3.71,31.3,Drip
 2021-03-06,Peshawar,Cotton,25.0,15.4,303.3,5927820,1.86,3.01,46.5,Sprinkler
 2022-03-27,Swat,Sugarcane,29.1,125.4,195.7,2857790,0.89,44.05,40.0,Sprinkler
@@ -1364,7 +1364,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-03-20,Mardan,Maize,20.5,235.1,291.5,2685660,0.51,2.51,65.0,Flood
 2018-03-25,Swat,Wheat,21.7,16.0,158.1,1514670,0.87,1.16,31.0,Sprinkler
 2020-06-04,Peshawar,Cotton,27.9,170.0,223.9,22215960,5.64,12.58,57.5,Sprinkler
-2022-02-07,Buner,Rice,28.1,,170.4,25421980,8.27,26.05,38.8,Drip
+2022-02-07,Buner,Rice,28.1,51.9,170.4,25421980,8.27,26.05,38.8,Drip
 2022-06-23,Swat,Rice,15.6,15.1,50.4,3478050,5.31,4.99,30.3,Sprinkler
 2021-01-03,Mardan,Wheat,27.0,47.6,127.6,6167040,3.52,3.84,35.1,Sprinkler
 2020-06-29,Dir,Maize,28.9,44.5,290.2,25370260,7.58,24.71,43.4,Sprinkler
@@ -1389,7 +1389,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-02-13,Swat,Wheat,20.3,50.2,97.5,6469260,4.38,6.88,35.8,Sprinkler
 2018-12-16,Dir,Cotton,25.2,55.4,376.1,16353850,3.79,8.79,55.1,Flood
 2019-11-16,Dir,Wheat,32.3,75.9,202.6,14454150,5.19,8.93,36.4,Sprinkler
-2019-10-09,Swat,Wheat,25.7,,193.1,23834580,9.38,14.54,30.3,Flood
+2019-10-09,Swat,Wheat,25.7,51.9,193.1,23834580,9.38,14.54,30.3,Flood
 2019-07-22,Peshawar,Maize,22.5,130.5,329.5,2760000,0.6,3.39,50.9,Flood
 2021-06-25,Dir,Rice,24.8,75.7,293.0,2949600,0.8,3.19,49.5,Sprinkler
 2024-09-20,Charsadda,Wheat,19.4,60.0,250.2,1675080,0.54,1.24,32.7,Flood
@@ -1426,7 +1426,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-05-09,Swat,Wheat,29.9,55.4,125.1,8140550,4.51,4.33,34.8,Flood
 2020-10-07,Charsadda,Wheat,39.4,94.0,146.5,21524750,8.95,10.2,30.7,Drip
 2024-03-12,Charsadda,Wheat,33.7,29.5,210.9,22910120,9.53,12.67,42.3,Sprinkler
-2023-02-20,Dir,Rice,22.8,,102.4,24017000,11.75,18.21,32.4,Drip
+2023-02-20,Dir,Rice,22.8,51.9,102.4,24017000,11.75,18.21,32.4,Drip
 2024-07-28,Swat,Maize,24.4,121.4,86.1,1805250,0.87,2.18,34.0,Drip
 2022-07-08,Charsadda,Wheat,13.0,37.7,203.1,8163120,3.39,5.12,39.4,Drip
 2022-02-23,Mardan,Rice,30.4,9.3,234.7,14444800,5.92,13.26,30.6,Flood
@@ -1435,7 +1435,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-04-21,Peshawar,Cotton,29.9,94.4,248.0,4690880,1.37,2.41,53.1,Flood
 2020-03-02,Swat,Maize,27.5,57.3,283.7,35327600,10.36,50.45,49.3,Drip
 2022-02-27,Buner,Rice,18.0,9.1,235.7,12827520,5.24,9.96,34.4,Flood
-2024-02-02,Mardan,Maize,27.2,68.2,,25881020,10.34,29.37,35.5,Sprinkler
+2024-02-02,Mardan,Maize,27.2,68.2,224.6,25881020,10.34,29.37,35.5,Sprinkler
 2018-04-01,Peshawar,Rice,20.6,98.7,314.3,44025800,10.66,35.18,46.2,Flood
 2022-04-30,Swat,Cotton,28.7,52.3,299.2,38875900,11.06,23.34,42.9,Sprinkler
 2023-04-22,Dir,Maize,19.7,34.7,178.7,20358360,9.54,20.42,29.5,Sprinkler
@@ -1460,7 +1460,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-01-13,Swat,Maize,22.5,72.7,224.0,9524070,3.21,11.11,39.1,Flood
 2023-12-10,Peshawar,Sugarcane,22.1,54.6,289.6,39066700,11.35,558.42,49.9,Sprinkler
 2023-05-24,Charsadda,Wheat,35.8,13.8,236.7,21993900,8.78,13.26,40.8,Sprinkler
-2020-09-03,Swat,Sugarcane,17.8,19.9,,37933720,11.81,517.87,40.6,Flood
+2020-09-03,Swat,Sugarcane,17.8,19.9,224.6,37933720,11.81,517.87,40.6,Flood
 2018-05-29,Buner,Sugarcane,30.2,122.0,149.4,7572060,2.79,139.97,44.7,Drip
 2023-07-21,Buner,Wheat,34.7,113.7,95.8,4148100,1.98,2.67,46.7,Drip
 2019-05-09,Dir,Maize,30.7,53.3,305.3,29082460,8.11,22.38,38.5,Sprinkler
@@ -1523,7 +1523,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-06-18,Charsadda,Rice,21.6,32.3,154.0,19878210,10.67,19.31,19.2,Drip
 2023-04-14,Swat,Wheat,24.1,169.9,178.2,6230990,1.79,4.62,52.0,Flood
 2018-04-21,Buner,Wheat,32.1,19.6,118.2,5677360,4.12,4.94,33.0,Drip
-2023-10-16,Peshawar,Rice,34.7,54.3,,12542390,7.69,11.07,34.8,Sprinkler
+2023-10-16,Peshawar,Rice,34.7,54.3,224.6,12542390,7.69,11.07,34.8,Sprinkler
 2020-10-02,Buner,Cotton,16.1,18.2,91.3,1543950,1.41,1.33,31.9,Sprinkler
 2020-02-04,Swat,Rice,21.4,74.8,75.2,17850000,11.9,21.42,26.1,Drip
 2019-10-22,Buner,Wheat,13.9,111.1,135.4,29382800,11.92,19.91,36.9,Drip
@@ -1557,7 +1557,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-11-28,Buner,Rice,19.4,167.9,193.7,40390720,11.17,31.28,53.8,Drip
 2021-01-27,Dir,Cotton,26.9,151.4,256.0,38580780,9.47,23.49,51.4,Drip
 2024-02-07,Charsadda,Wheat,28.5,43.9,174.3,23260120,10.66,16.95,38.2,Sprinkler
-2023-09-16,Dir,Cotton,41.8,77.1,,17823680,8.72,5.93,37.6,Sprinkler
+2023-09-16,Dir,Cotton,41.8,77.1,224.6,17823680,8.72,5.93,37.6,Sprinkler
 2024-05-28,Dir,Wheat,12.3,38.7,240.2,3988270,1.43,2.79,41.2,Drip
 2021-10-12,Swat,Rice,24.8,34.3,141.4,11402930,6.49,10.77,43.7,Flood
 2023-06-14,Swat,Rice,24.5,32.6,255.1,24713430,8.59,28.26,48.5,Sprinkler
@@ -1581,7 +1581,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-07-31,Peshawar,Cotton,28.2,37.7,283.2,25960810,8.09,15.94,45.4,Drip
 2023-11-21,Swat,Cotton,31.7,53.3,338.7,7487200,1.91,3.95,42.4,Flood
 2023-12-08,Swat,Maize,26.0,111.3,256.6,8608860,2.34,8.89,42.4,Flood
-2024-02-04,Peshawar,Sugarcane,28.4,,86.2,2145290,1.33,41.18,29.2,Drip
+2024-02-04,Peshawar,Sugarcane,28.4,51.9,86.2,2145290,1.33,41.18,29.2,Drip
 2023-06-11,Mardan,Wheat,16.4,42.4,275.9,16933560,5.32,11.6,45.4,Flood
 2018-11-08,Peshawar,Maize,30.1,96.8,220.6,7554120,2.38,7.52,43.4,Flood
 2021-05-23,Swat,Wheat,16.2,49.9,112.3,1459800,0.9,1.32,38.8,Drip
@@ -1601,7 +1601,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-08-04,Charsadda,Rice,34.4,22.3,275.4,35277450,11.85,30.69,33.4,Flood
 2024-04-28,Swat,Wheat,18.0,89.5,195.1,6631180,2.33,4.68,49.5,Sprinkler
 2024-10-26,Charsadda,Wheat,37.0,28.7,267.2,16452040,5.56,8.56,44.0,Drip
-2018-06-18,Charsadda,Wheat,34.0,,148.4,14346640,7.48,8.08,45.0,Drip
+2018-06-18,Charsadda,Wheat,34.0,51.9,148.4,14346640,7.48,8.08,45.0,Drip
 2022-09-04,Swat,Wheat,13.6,13.2,185.6,10655680,5.36,8.52,32.8,Drip
 2018-08-29,Buner,Sugarcane,17.8,14.2,326.9,36054270,10.57,536.11,40.6,Flood
 2024-02-25,Dir,Wheat,13.4,29.2,137.3,13170150,7.91,10.05,26.2,Drip
@@ -1731,7 +1731,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-08-08,Buner,Maize,25.0,52.5,312.1,8896240,2.44,11.98,39.2,Flood
 2021-05-21,Charsadda,Sugarcane,19.8,20.2,163.2,3411240,1.86,58.61,35.9,Drip
 2024-05-25,Dir,Maize,26.1,46.2,202.1,23042240,9.28,28.49,40.5,Sprinkler
-2018-01-18,Charsadda,Cotton,21.5,144.1,,25429590,5.31,12.37,48.8,Flood
+2018-01-18,Charsadda,Cotton,21.5,144.1,224.6,25429590,5.31,12.37,48.8,Flood
 2021-11-14,Dir,Sugarcane,24.8,180.2,166.8,11902100,3.43,234.3,49.0,Sprinkler
 2024-07-31,Dir,Wheat,33.5,32.8,279.5,12492000,4.0,7.56,32.1,Sprinkler
 2024-03-21,Charsadda,Cotton,20.2,43.0,181.5,21619350,9.63,8.67,30.9,Flood
@@ -1751,7 +1751,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-12-14,Charsadda,Maize,42.0,48.7,152.8,16543150,8.21,8.54,39.8,Flood
 2020-07-02,Dir,Wheat,14.6,29.0,164.6,20289280,10.48,17.4,34.3,Drip
 2019-11-27,Dir,Wheat,28.4,37.4,158.5,5916180,3.02,3.02,35.4,Sprinkler
-2019-05-17,Peshawar,Sugarcane,17.8,49.7,,31333380,8.67,439.66,42.7,Sprinkler
+2019-05-17,Peshawar,Sugarcane,17.8,49.7,224.6,31333380,8.67,439.66,42.7,Sprinkler
 2024-12-23,Mardan,Cotton,19.8,31.9,154.3,7094220,3.81,3.2,30.1,Flood
 2022-05-20,Peshawar,Rice,21.5,140.8,406.5,61844900,11.3,34.8,50.4,Flood
 2018-09-19,Swat,Wheat,27.7,27.5,196.5,15657600,6.99,12.51,35.6,Sprinkler
@@ -1795,7 +1795,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-04-09,Swat,Maize,31.6,33.3,208.7,6558200,2.71,5.18,41.4,Flood
 2023-01-22,Mardan,Maize,30.6,154.4,264.6,6494500,1.55,7.07,46.9,Flood
 2024-05-28,Swat,Maize,26.0,36.5,337.4,33426660,8.94,38.71,43.3,Flood
-2021-10-09,Dir,Sugarcane,27.3,42.7,,2290500,0.75,33.94,35.4,Flood
+2021-10-09,Dir,Sugarcane,27.3,42.7,224.6,2290500,0.75,33.94,35.4,Flood
 2018-09-09,Swat,Wheat,23.0,28.2,131.9,10294430,6.43,9.84,28.8,Sprinkler
 2022-05-27,Mardan,Maize,11.2,77.2,218.4,25480720,8.62,16.81,47.9,Sprinkler
 2021-05-06,Peshawar,Wheat,27.4,20.8,251.3,22230570,8.17,16.09,38.6,Sprinkler
@@ -1865,7 +1865,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-11-26,Mardan,Rice,26.7,49.0,292.8,14868300,4.35,16.7,43.5,Drip
 2018-03-18,Dir,Maize,23.2,47.9,166.5,19896320,9.28,23.39,32.4,Flood
 2021-01-26,Mardan,Rice,22.1,13.0,210.3,17529050,7.85,15.54,39.5,Sprinkler
-2021-07-08,Buner,Maize,20.2,,297.4,42209760,11.28,52.9,50.1,Sprinkler
+2021-07-08,Buner,Maize,20.2,51.9,297.4,42209760,11.28,52.9,50.1,Sprinkler
 2021-03-01,Charsadda,Wheat,20.6,11.3,273.6,33532730,11.77,26.95,39.9,Flood
 2024-02-05,Buner,Maize,33.8,26.5,152.1,910860,0.51,0.82,26.0,Drip
 2024-05-23,Charsadda,Maize,22.5,55.6,329.8,12332800,3.2,13.63,43.7,Flood
@@ -2007,7 +2007,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-10-17,Buner,Rice,32.0,59.5,119.0,3748500,2.1,3.36,32.1,Drip
 2022-10-03,Mardan,Sugarcane,15.8,76.9,359.7,19341380,4.43,280.02,48.2,Flood
 2023-04-20,Buner,Wheat,18.4,15.8,281.6,2171020,0.73,1.63,37.2,Sprinkler
-2018-04-14,Charsadda,Wheat,20.1,72.6,,26302320,7.92,18.53,35.2,Flood
+2018-04-14,Charsadda,Wheat,20.1,72.6,224.6,26302320,7.92,18.53,35.2,Flood
 2022-06-17,Peshawar,Maize,21.3,52.0,257.1,3956480,1.28,4.89,43.3,Sprinkler
 2021-02-09,Mardan,Wheat,20.3,70.8,230.8,6635200,2.2,5.04,55.6,Drip
 2019-05-14,Mardan,Cotton,21.1,75.6,142.8,21010080,9.62,14.14,37.6,Drip
@@ -2085,10 +2085,10 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-11-22,Charsadda,Wheat,18.3,77.6,156.5,2738970,1.17,1.72,38.0,Flood
 2019-07-15,Buner,Maize,26.0,84.3,206.7,30555000,10.5,29.82,42.4,Flood
 2023-10-28,Peshawar,Sugarcane,5.0,57.0,240.7,19588660,6.58,148.12,39.4,Sprinkler
-2024-11-15,Charsadda,Sugarcane,26.4,,140.0,15003160,7.22,215.3,34.2,Sprinkler
+2024-11-15,Charsadda,Sugarcane,26.4,51.9,140.0,15003160,7.22,215.3,34.2,Sprinkler
 2024-06-21,Peshawar,Wheat,30.0,38.6,140.2,18005160,10.07,11.58,33.3,Sprinkler
 2023-11-14,Swat,Wheat,24.2,84.1,241.8,36370440,11.16,30.69,44.7,Sprinkler
-2021-04-11,Buner,Rice,16.8,139.3,,46299600,10.8,30.89,38.3,Flood
+2021-04-11,Buner,Rice,16.8,139.3,224.6,46299600,10.8,30.89,38.3,Flood
 2021-09-06,Dir,Maize,38.7,37.6,163.5,11784460,5.86,10.72,32.9,Drip
 2021-10-11,Swat,Maize,33.1,91.1,295.3,33578160,8.69,31.46,51.8,Flood
 2023-02-25,Charsadda,Cotton,21.3,101.5,420.0,47717250,9.15,19.49,53.9,Flood
@@ -2113,7 +2113,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-03-30,Charsadda,Maize,31.1,33.8,209.1,10639020,4.38,9.37,37.7,Flood
 2021-04-30,Dir,Maize,37.4,36.9,110.1,5115600,3.48,6.47,25.2,Drip
 2023-05-28,Dir,Maize,17.7,48.2,188.5,19527750,8.25,18.07,43.7,Flood
-2023-08-10,Charsadda,Sugarcane,17.6,66.1,,16231170,6.59,232.36,38.8,Sprinkler
+2023-08-10,Charsadda,Sugarcane,17.6,66.1,224.6,16231170,6.59,232.36,38.8,Sprinkler
 2019-06-24,Swat,Cotton,22.1,48.2,171.7,4705860,2.14,2.18,23.2,Flood
 2021-01-04,Dir,Rice,27.1,102.9,341.4,35588430,8.01,31.08,48.8,Sprinkler
 2024-04-27,Peshawar,Maize,23.0,37.4,155.0,7080320,3.68,9.05,34.0,Drip
@@ -2174,7 +2174,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-01-13,Dir,Sugarcane,15.5,126.5,140.2,18775680,7.04,234.29,44.7,Sprinkler
 2018-11-27,Charsadda,Maize,21.1,88.4,211.3,33146820,11.06,26.77,38.2,Sprinkler
 2020-08-24,Swat,Rice,26.3,63.0,190.6,1825920,0.72,2.07,31.1,Sprinkler
-2019-05-25,Charsadda,Wheat,26.6,3.9,,12988760,8.86,9.57,26.9,Sprinkler
+2019-05-25,Charsadda,Wheat,26.6,3.9,224.6,12988760,8.86,9.57,26.9,Sprinkler
 2024-03-28,Buner,Wheat,35.0,79.4,237.7,19247970,6.07,8.5,37.5,Flood
 2020-01-28,Mardan,Cotton,18.0,78.8,376.3,41232060,9.06,20.66,48.8,Flood
 2021-12-19,Peshawar,Cotton,21.2,124.9,211.9,6129760,1.82,3.35,40.2,Flood
@@ -2202,7 +2202,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-10-11,Mardan,Rice,19.8,213.1,229.8,5403380,1.22,3.7,52.5,Flood
 2018-01-25,Buner,Rice,25.4,12.4,216.6,25854100,11.29,25.85,28.2,Drip
 2024-12-06,Buner,Wheat,14.6,108.5,312.5,24081200,5.72,17.56,54.8,Flood
-2024-02-13,Mardan,Cotton,35.4,,46.3,3269550,3.55,3.51,28.1,Drip
+2024-02-13,Mardan,Cotton,35.4,51.9,46.3,3269550,3.55,3.51,28.1,Drip
 2023-03-06,Mardan,Maize,25.3,25.0,199.6,21067480,9.38,22.61,23.4,Drip
 2020-01-23,Charsadda,Rice,22.9,39.5,209.8,1346220,0.54,0.91,25.9,Flood
 2023-03-22,Buner,Maize,25.4,113.9,226.5,2893400,0.85,2.49,46.8,Flood
@@ -2288,7 +2288,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-02-14,Dir,Sugarcane,16.6,37.4,232.3,14024400,5.2,195.99,32.4,Flood
 2021-03-23,Charsadda,Wheat,25.4,37.4,327.3,26477220,7.26,16.04,53.4,Flood
 2021-09-03,Dir,Maize,19.2,14.2,160.0,6340880,3.64,6.55,33.8,Sprinkler
-2018-02-17,Mardan,Wheat,22.6,,204.6,20181040,7.48,19.0,35.0,Sprinkler
+2018-02-17,Mardan,Wheat,22.6,51.9,204.6,20181040,7.48,19.0,35.0,Sprinkler
 2022-03-10,Mardan,Rice,27.7,232.6,255.4,32208000,6.6,26.0,60.4,Flood
 2020-10-27,Swat,Wheat,21.7,53.6,170.3,20912260,9.34,21.2,43.0,Drip
 2019-05-27,Swat,Cotton,23.0,39.2,338.1,9658880,2.56,5.53,51.8,Flood
@@ -2336,15 +2336,15 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-06-09,Peshawar,Rice,27.7,38.6,198.5,14012610,5.91,17.08,38.7,Drip
 2021-08-02,Peshawar,Cotton,18.6,89.1,206.2,16418680,5.56,9.56,48.9,Flood
 2018-11-18,Mardan,Maize,5.0,42.2,182.2,16583160,7.39,9.53,30.0,Flood
-2023-12-20,Charsadda,Maize,19.6,,222.6,18886640,7.69,21.15,33.7,Flood
+2023-12-20,Charsadda,Maize,19.6,51.9,222.6,18886640,7.69,21.15,33.7,Flood
 2020-01-03,Buner,Wheat,28.8,36.5,195.3,6930820,2.99,4.57,28.2,Flood
 2023-02-26,Buner,Cotton,23.6,102.8,161.8,25851420,9.77,14.75,41.9,Drip
 2022-07-06,Mardan,Maize,29.6,214.4,305.8,27310500,5.25,28.66,60.0,Flood
 2020-07-10,Mardan,Rice,32.7,86.0,133.1,20924050,9.55,18.72,40.0,Sprinkler
-2023-06-03,Peshawar,Cotton,22.7,,148.1,1967920,0.68,1.31,42.1,Drip
+2023-06-03,Peshawar,Cotton,22.7,51.9,148.1,1967920,0.68,1.31,42.1,Drip
 2022-08-07,Charsadda,Wheat,22.0,84.5,396.1,44936100,9.35,31.79,53.7,Flood
 2023-03-20,Peshawar,Rice,9.7,84.0,58.3,9704860,6.82,7.23,30.2,Drip
-2024-08-31,Swat,Maize,14.2,,147.4,11760300,5.37,12.03,36.3,Sprinkler
+2024-08-31,Swat,Maize,14.2,51.9,147.4,11760300,5.37,12.03,36.3,Sprinkler
 2019-12-04,Swat,Rice,15.6,63.3,274.6,7231060,2.14,4.77,43.7,Flood
 2023-05-07,Charsadda,Maize,28.9,27.8,115.7,15354500,10.7,18.19,31.0,Sprinkler
 2018-04-12,Swat,Wheat,22.8,50.3,166.5,2406480,1.11,1.79,41.8,Drip
@@ -2466,7 +2466,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-09-16,Mardan,Cotton,26.2,11.9,197.6,16571450,7.91,10.2,34.8,Flood
 2021-11-01,Swat,Wheat,24.0,23.8,198.8,11619720,5.22,9.6,27.8,Sprinkler
 2020-01-17,Swat,Wheat,29.4,133.5,229.0,23635000,6.52,16.23,36.5,Drip
-2024-10-12,Charsadda,Wheat,31.0,,233.5,23418720,9.36,17.88,39.6,Sprinkler
+2024-10-12,Charsadda,Wheat,31.0,51.9,233.5,23418720,9.36,17.88,39.6,Sprinkler
 2018-12-14,Buner,Sugarcane,16.8,18.4,148.1,12504150,7.51,197.29,23.0,Flood
 2019-11-15,Swat,Maize,34.0,90.9,88.3,14604800,8.15,15.97,30.7,Drip
 2023-03-26,Dir,Wheat,22.5,67.7,142.7,4565680,2.17,3.39,33.9,Flood
@@ -2507,7 +2507,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-08-13,Buner,Sugarcane,28.9,99.6,210.6,15572040,5.02,210.29,44.8,Flood
 2024-06-10,Mardan,Cotton,29.7,36.7,290.7,38731420,11.83,22.6,43.9,Flood
 2021-09-28,Peshawar,Cotton,23.0,20.6,179.4,23480000,11.74,16.55,30.0,Drip
-2019-02-24,Mardan,Maize,27.9,76.2,,9907920,4.17,9.26,37.8,Flood
+2019-02-24,Mardan,Maize,27.9,76.2,224.6,9907920,4.17,9.26,37.8,Flood
 2023-07-12,Buner,Maize,22.0,31.8,296.6,8998160,2.74,9.67,49.7,Drip
 2019-12-31,Swat,Maize,30.7,120.7,368.9,45190080,9.23,42.37,55.7,Flood
 2019-07-29,Dir,Maize,26.3,70.3,187.4,23940330,9.29,34.65,36.7,Drip
@@ -2695,7 +2695,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-02-16,Mardan,Wheat,11.2,9.9,279.5,22775780,7.87,16.13,34.5,Flood
 2022-05-13,Dir,Wheat,19.8,79.7,193.2,19403190,7.11,20.41,34.2,Sprinkler
 2019-05-01,Mardan,Maize,41.2,122.0,333.3,44755990,9.83,36.47,57.3,Flood
-2023-05-24,Buner,Rice,29.3,94.2,,46076960,9.76,48.02,48.9,Sprinkler
+2023-05-24,Buner,Rice,29.3,94.2,224.6,46076960,9.76,48.02,48.9,Sprinkler
 2019-06-03,Mardan,Cotton,29.3,128.5,185.6,30467700,9.7,12.42,34.5,Flood
 2018-03-02,Buner,Wheat,19.2,146.4,315.3,31257090,6.77,24.1,53.0,Flood
 2018-05-12,Buner,Maize,17.3,47.1,357.0,16931790,4.19,14.96,49.1,Sprinkler
@@ -2753,7 +2753,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-03-13,Buner,Wheat,34.6,200.9,169.5,8185840,2.21,4.24,55.8,Sprinkler
 2020-01-07,Peshawar,Cotton,13.7,66.3,174.2,21957650,9.13,8.49,31.8,Flood
 2021-02-23,Peshawar,Cotton,21.4,89.5,230.5,6976000,2.18,3.18,43.1,Sprinkler
-2018-07-25,Dir,Rice,32.6,121.6,,6312200,1.48,5.42,62.7,Sprinkler
+2018-07-25,Dir,Rice,32.6,121.6,224.6,6312200,1.48,5.42,62.7,Sprinkler
 2022-07-21,Dir,Cotton,33.1,136.2,358.1,23429820,4.74,10.43,61.2,Flood
 2020-11-10,Dir,Wheat,34.0,34.6,135.9,16487350,9.67,8.99,23.2,Sprinkler
 2022-10-05,Peshawar,Wheat,42.9,13.1,315.7,37614720,11.44,13.61,45.4,Flood
@@ -2841,7 +2841,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-04-28,Dir,Rice,19.5,106.4,255.0,12649000,3.5,8.51,50.7,Flood
 2024-10-02,Mardan,Cotton,5.0,16.3,137.7,6622000,4.3,3.01,34.4,Drip
 2018-10-19,Charsadda,Wheat,27.3,30.9,107.9,9160800,6.6,7.59,26.0,Sprinkler
-2022-01-23,Charsadda,Wheat,17.5,,235.2,19220040,8.12,11.12,38.5,Flood
+2022-01-23,Charsadda,Wheat,17.5,51.9,235.2,19220040,8.12,11.12,38.5,Flood
 2024-08-01,Mardan,Maize,25.9,45.8,315.9,9585050,2.65,11.26,47.1,Sprinkler
 2019-09-11,Mardan,Wheat,43.0,164.4,231.0,33213600,8.4,12.01,54.7,Flood
 2021-08-15,Mardan,Wheat,36.2,11.6,290.4,5285000,1.75,2.9,40.1,Sprinkler
@@ -2944,7 +2944,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-06-13,Charsadda,Maize,37.0,50.0,77.0,8991600,7.08,11.47,27.4,Drip
 2024-09-22,Swat,Maize,22.1,23.0,119.9,10960430,7.67,20.94,27.2,Drip
 2023-09-13,Charsadda,Maize,6.5,60.6,298.6,12464240,3.47,8.43,36.7,Flood
-2019-09-29,Buner,Wheat,35.2,101.5,,35811480,10.02,15.03,55.9,Flood
+2019-09-29,Buner,Wheat,35.2,101.5,224.6,35811480,10.02,15.03,55.9,Flood
 2019-04-09,Peshawar,Cotton,28.5,41.7,99.4,8973960,6.36,6.68,31.8,Sprinkler
 2020-07-27,Mardan,Rice,9.4,87.0,147.8,3052400,1.3,1.64,31.5,Sprinkler
 2018-02-27,Peshawar,Rice,27.4,51.8,176.0,9544820,4.19,10.06,37.5,Drip
@@ -2952,7 +2952,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-03-16,Buner,Maize,22.7,30.2,234.2,11474960,4.34,11.2,44.4,Flood
 2021-07-08,Peshawar,Maize,19.2,46.4,304.0,6377280,1.82,6.19,42.5,Flood
 2024-12-04,Dir,Cotton,20.7,88.7,199.0,12169710,4.23,5.71,40.6,Drip
-2022-08-01,Mardan,Wheat,22.7,66.3,,1320760,0.53,1.11,34.3,Sprinkler
+2022-08-01,Mardan,Wheat,22.7,66.3,224.6,1320760,0.53,1.11,34.3,Sprinkler
 2020-12-01,Swat,Cotton,27.5,26.1,211.1,6949960,2.93,4.51,37.8,Flood
 2023-06-25,Dir,Maize,30.5,72.4,161.9,18392550,7.85,16.25,36.5,Drip
 2020-08-02,Buner,Rice,10.0,59.0,119.6,11984060,6.71,7.85,38.5,Flood
@@ -3024,7 +3024,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-03-31,Mardan,Cotton,33.0,18.5,144.9,6486980,3.97,3.65,27.5,Drip
 2021-06-08,Swat,Rice,9.5,106.1,250.6,37738860,10.58,17.67,47.3,Flood
 2020-06-27,Mardan,Wheat,15.7,111.7,322.6,41996810,9.67,24.85,53.8,Flood
-2020-07-13,Peshawar,Maize,19.2,71.7,,33285120,7.04,29.78,53.8,Flood
+2020-07-13,Peshawar,Maize,19.2,71.7,224.6,33285120,7.04,29.78,53.8,Flood
 2023-12-28,Buner,Rice,13.2,128.8,332.2,53844800,11.68,39.48,56.3,Flood
 2020-10-10,Charsadda,Sugarcane,21.6,44.4,96.3,13619760,9.68,358.06,31.3,Drip
 2023-11-09,Swat,Cotton,21.0,48.6,311.9,21161350,5.87,12.56,45.8,Flood
@@ -3057,7 +3057,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-11-20,Mardan,Maize,23.0,121.1,40.0,18494280,11.48,32.03,30.9,Drip
 2018-11-13,Charsadda,Maize,40.9,54.2,205.6,15951720,6.14,13.75,43.5,Drip
 2022-10-12,Buner,Rice,30.7,26.8,152.3,16763760,9.36,16.47,31.1,Sprinkler
-2020-05-25,Mardan,Sugarcane,24.8,,293.4,10281740,2.71,158.16,46.7,Flood
+2020-05-25,Mardan,Sugarcane,24.8,51.9,293.4,10281740,2.71,158.16,46.7,Flood
 2020-01-29,Swat,Cotton,27.0,22.3,186.8,20408160,9.76,12.1,42.5,Flood
 2024-12-14,Swat,Maize,25.4,48.3,302.7,41137200,11.72,37.04,33.6,Flood
 2023-07-21,Swat,Wheat,29.9,36.7,132.9,7326720,4.32,5.49,26.2,Drip
@@ -3076,7 +3076,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-09-17,Peshawar,Cotton,26.1,59.7,190.4,21408560,8.56,11.38,29.3,Sprinkler
 2022-11-04,Charsadda,Maize,22.0,68.9,288.3,35791440,10.02,36.47,44.4,Flood
 2018-10-01,Buner,Wheat,30.2,47.2,158.3,4890900,2.38,3.05,30.9,Sprinkler
-2022-02-07,Charsadda,Wheat,33.6,,167.5,20718550,9.65,10.62,30.9,Sprinkler
+2022-02-07,Charsadda,Wheat,33.6,51.9,167.5,20718550,9.65,10.62,30.9,Sprinkler
 2021-01-09,Swat,Cotton,25.1,37.3,177.7,6643500,3.09,3.43,25.5,Drip
 2019-08-30,Mardan,Cotton,31.3,30.9,133.1,13792400,8.41,7.91,28.4,Flood
 2020-08-27,Mardan,Wheat,34.7,82.6,124.2,23864720,11.54,11.42,35.2,Flood
@@ -3109,7 +3109,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-02-13,Mardan,Cotton,31.7,82.1,173.3,15094140,5.91,8.98,40.4,Sprinkler
 2023-03-11,Dir,Maize,24.4,30.3,214.5,2129760,0.87,2.37,33.9,Flood
 2019-03-12,Swat,Maize,32.4,34.6,169.7,2839770,1.39,2.2,36.2,Flood
-2020-01-28,Peshawar,Rice,34.4,,263.1,32467860,10.98,29.54,39.7,Flood
+2020-01-28,Peshawar,Rice,34.4,51.9,263.1,32467860,10.98,29.54,39.7,Flood
 2021-11-06,Charsadda,Wheat,31.3,73.1,190.6,3665430,1.39,2.32,41.9,Flood
 2019-05-30,Buner,Cotton,21.2,86.9,183.0,25991370,9.63,17.53,43.8,Flood
 2021-06-23,Dir,Sugarcane,24.8,49.9,152.3,23940480,11.84,372.6,36.2,Sprinkler
@@ -3122,7 +3122,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-08-08,Peshawar,Rice,32.5,23.9,204.1,13588800,5.96,10.19,39.7,Flood
 2024-10-18,Dir,Maize,18.9,8.5,163.3,13091160,7.62,11.89,33.6,Sprinkler
 2019-03-28,Mardan,Sugarcane,36.9,60.6,237.2,28618580,9.61,387.96,44.0,Sprinkler
-2019-11-19,Peshawar,Wheat,22.4,,234.3,6090070,2.41,4.55,34.4,Drip
+2019-11-19,Peshawar,Wheat,22.4,51.9,234.3,6090070,2.41,4.55,34.4,Drip
 2024-08-02,Mardan,Cotton,25.4,67.7,231.0,12873970,4.31,6.34,46.4,Sprinkler
 2019-09-04,Dir,Rice,12.2,57.3,132.5,17157920,9.04,12.02,33.0,Sprinkler
 2022-05-02,Charsadda,Rice,32.8,48.2,289.2,36270500,10.75,37.95,40.3,Sprinkler
@@ -3203,7 +3203,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-06-26,Dir,Cotton,14.0,39.4,189.7,4169620,1.82,2.04,33.5,Sprinkler
 2021-04-10,Charsadda,Wheat,25.6,7.5,278.2,17884820,6.26,13.08,40.4,Sprinkler
 2022-10-23,Buner,Maize,26.0,133.7,221.5,4333440,1.22,4.9,43.8,Drip
-2019-05-26,Swat,Rice,25.8,,204.7,8307600,2.76,8.94,48.1,Drip
+2019-05-26,Swat,Rice,25.8,51.9,204.7,8307600,2.76,8.94,48.1,Drip
 2024-12-19,Charsadda,Rice,31.0,42.5,292.1,15425060,4.61,17.33,33.9,Sprinkler
 2020-12-29,Dir,Rice,30.0,65.7,251.7,4951440,1.56,4.93,40.9,Flood
 2018-01-28,Charsadda,Rice,40.6,30.5,274.7,32809000,10.75,22.25,43.1,Flood
@@ -3284,7 +3284,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-12-19,Dir,Rice,21.3,72.9,266.9,7271720,2.14,6.03,42.2,Flood
 2023-06-17,Buner,Maize,32.2,144.5,199.5,11180000,3.25,10.69,51.5,Sprinkler
 2018-02-26,Mardan,Wheat,37.8,42.6,223.7,21650190,8.13,8.05,34.1,Flood
-2018-10-15,Mardan,Wheat,25.4,52.9,,6981120,1.92,6.34,39.8,Sprinkler
+2018-10-15,Mardan,Wheat,25.4,52.9,224.6,6981120,1.92,6.34,39.8,Sprinkler
 2024-08-31,Buner,Rice,20.6,51.3,105.8,13369210,8.51,11.66,31.1,Sprinkler
 2021-01-17,Swat,Cotton,36.8,184.6,251.5,49715400,11.4,19.04,53.7,Flood
 2023-10-03,Swat,Rice,20.6,35.2,268.5,6286590,2.07,5.71,47.9,Drip
@@ -3296,7 +3296,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-09-17,Swat,Maize,20.6,33.9,221.3,30139120,11.81,31.18,35.9,Flood
 2023-04-14,Charsadda,Rice,29.6,72.4,354.8,17856960,4.18,14.8,45.5,Flood
 2018-08-27,Swat,Maize,26.1,65.1,261.4,9403200,2.88,12.04,45.4,Sprinkler
-2022-09-02,Dir,Wheat,31.2,,54.7,2605010,3.37,3.67,23.5,Sprinkler
+2022-09-02,Dir,Wheat,31.2,51.9,54.7,2605010,3.37,3.67,23.5,Sprinkler
 2020-09-01,Peshawar,Wheat,19.2,70.6,248.1,23966240,7.52,17.0,48.2,Flood
 2019-11-08,Charsadda,Rice,23.5,10.6,293.6,10920780,3.59,12.42,34.6,Drip
 2019-09-05,Peshawar,Sugarcane,29.4,53.2,244.8,29442400,9.88,337.7,40.6,Flood
@@ -3363,7 +3363,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-08-06,Charsadda,Cotton,32.7,63.9,266.5,37037840,11.21,19.62,45.7,Flood
 2018-02-16,Buner,Maize,19.4,40.5,199.0,16884750,7.05,19.46,39.2,Drip
 2019-12-24,Charsadda,Rice,27.5,44.8,309.1,4105240,1.16,4.65,49.1,Flood
-2018-03-24,Buner,Maize,12.7,31.1,,18750720,10.28,16.86,43.1,Drip
+2018-03-24,Buner,Maize,12.7,31.1,224.6,18750720,10.28,16.86,43.1,Drip
 2023-04-29,Charsadda,Cotton,22.7,188.7,250.5,7554240,1.72,5.25,49.4,Sprinkler
 2020-12-27,Peshawar,Wheat,28.5,86.3,213.0,22776730,7.61,13.62,44.1,Flood
 2021-01-22,Swat,Sugarcane,15.1,54.3,168.0,5001750,2.25,72.11,35.1,Sprinkler
@@ -3380,7 +3380,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-02-03,Dir,Rice,36.2,106.2,325.4,17393480,4.03,14.83,47.6,Flood
 2022-12-09,Mardan,Rice,26.7,61.4,238.0,8682600,2.9,7.02,50.5,Flood
 2021-05-20,Charsadda,Maize,22.6,66.7,189.6,14839770,5.79,18.76,35.2,Drip
-2020-05-05,Charsadda,Maize,21.3,,173.2,9016000,3.5,9.76,40.5,Drip
+2020-05-05,Charsadda,Maize,21.3,51.9,173.2,9016000,3.5,9.76,40.5,Drip
 2024-07-04,Dir,Wheat,27.2,22.8,213.9,15503850,6.55,10.68,31.1,Sprinkler
 2019-10-05,Dir,Rice,28.4,67.5,169.2,14273010,6.03,13.57,39.7,Flood
 2018-07-21,Charsadda,Wheat,23.6,37.6,310.8,2055560,0.59,1.0,42.2,Flood
@@ -3443,7 +3443,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-10-14,Buner,Rice,21.2,40.9,139.7,3882900,2.15,4.24,28.0,Drip
 2018-10-28,Mardan,Rice,20.0,57.7,233.4,20551660,7.06,18.92,51.0,Drip
 2018-04-01,Swat,Rice,21.6,29.0,326.1,25709240,7.24,19.04,49.1,Flood
-2021-05-03,Dir,Cotton,31.4,48.5,,27129600,7.85,11.07,34.5,Flood
+2021-05-03,Dir,Cotton,31.4,48.5,224.6,27129600,7.85,11.07,34.5,Flood
 2021-01-23,Charsadda,Wheat,24.5,236.0,40.0,4581600,1.66,3.25,44.5,Drip
 2020-01-14,Swat,Rice,27.0,55.3,199.3,29940960,11.76,30.46,38.7,Sprinkler
 2019-03-09,Peshawar,Maize,35.9,35.7,229.7,14650080,5.52,15.18,32.7,Drip
@@ -3587,7 +3587,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-11-06,Swat,Rice,19.3,40.7,116.7,17439920,11.08,18.06,30.8,Sprinkler
 2024-08-17,Mardan,Wheat,29.2,31.2,170.4,18849600,9.35,12.34,28.8,Drip
 2020-08-27,Charsadda,Rice,28.8,145.5,133.7,13932080,4.99,15.92,46.4,Drip
-2020-03-12,Peshawar,Maize,13.7,,72.1,4264660,2.54,4.37,15.2,Drip
+2020-03-12,Peshawar,Maize,13.7,51.9,72.1,4264660,2.54,4.37,15.2,Drip
 2019-11-07,Dir,Maize,24.4,29.3,137.9,15984320,9.56,23.14,27.0,Drip
 2022-07-25,Buner,Maize,31.1,5.5,278.7,3239880,1.14,3.57,31.9,Sprinkler
 2024-09-12,Swat,Wheat,35.3,61.4,219.4,10698480,3.81,5.26,43.2,Sprinkler
@@ -3645,7 +3645,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-08-11,Mardan,Rice,30.8,50.5,210.3,25349760,9.72,25.95,,Sprinkler
 2022-09-08,Dir,Rice,31.7,22.1,344.9,19230800,5.24,18.65,44.4,Flood
 2020-07-27,Peshawar,Rice,28.3,44.9,267.8,29206180,9.34,33.53,47.9,Sprinkler
-2018-12-02,Peshawar,Maize,27.3,21.0,,15121420,7.46,19.92,44.5,Sprinkler
+2018-12-02,Peshawar,Maize,27.3,21.0,224.6,15121420,7.46,19.92,44.5,Sprinkler
 2023-07-08,Peshawar,Wheat,25.3,167.5,177.8,28072890,8.13,20.57,55.9,Flood
 2024-04-19,Dir,Maize,36.9,39.2,131.0,5310240,3.12,4.93,26.2,Drip
 2022-03-18,Charsadda,Maize,21.7,95.8,228.5,30484200,9.4,37.22,45.1,Drip
@@ -3674,7 +3674,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-09-09,Peshawar,Cotton,25.5,23.0,163.8,1774600,0.95,1.04,34.9,Sprinkler
 2020-07-24,Buner,Wheat,15.7,72.1,373.3,31222540,7.01,22.57,51.6,Flood
 2020-11-25,Peshawar,Wheat,43.1,25.3,315.2,24686250,7.25,10.22,44.2,Flood
-2024-02-08,Mardan,Sugarcane,29.6,,161.3,6919560,2.58,96.03,40.4,Drip
+2024-02-08,Mardan,Sugarcane,29.6,51.9,161.3,6919560,2.58,96.03,40.4,Drip
 2020-04-11,Mardan,Sugarcane,25.4,36.0,213.2,10042760,4.03,119.05,33.3,Flood
 2020-06-24,Charsadda,Maize,37.9,51.6,181.7,11758320,5.04,10.99,41.8,Drip
 2020-11-10,Peshawar,Sugarcane,17.5,59.9,308.1,2281600,0.62,37.55,48.2,Flood
@@ -3874,7 +3874,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-07-13,Dir,Wheat,18.6,83.9,301.3,31663440,8.22,26.39,54.0,Flood
 2021-11-30,Mardan,Sugarcane,17.5,36.8,170.7,19339000,9.32,247.45,37.3,Sprinkler
 2018-08-20,Peshawar,Wheat,25.9,42.1,150.3,5752760,2.99,4.99,31.4,Drip
-2022-10-02,Peshawar,Rice,34.1,4.1,,24233300,9.1,22.3,41.6,Sprinkler
+2022-10-02,Peshawar,Rice,34.1,4.1,224.6,24233300,9.1,22.3,41.6,Sprinkler
 2018-08-22,Charsadda,Cotton,25.9,141.5,222.4,28129470,7.73,18.24,53.7,Drip
 2022-01-01,Swat,Maize,34.2,39.2,40.0,4015440,5.07,8.21,22.6,Drip
 2023-07-14,Swat,Wheat,22.4,80.1,257.6,8408730,2.49,7.4,44.0,Sprinkler
@@ -3899,7 +3899,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-01-25,Buner,Rice,20.6,92.6,211.1,35624010,11.73,25.1,40.0,Flood
 2018-03-23,Swat,Rice,32.6,79.1,242.1,35685320,11.11,34.89,50.5,Flood
 2021-04-30,Dir,Wheat,15.9,45.9,298.3,37242440,10.82,31.92,39.0,Flood
-2021-04-14,Peshawar,Wheat,16.9,,233.2,15556730,4.69,11.07,43.8,Flood
+2021-04-14,Peshawar,Wheat,16.9,51.9,233.2,15556730,4.69,11.07,43.8,Flood
 2024-08-01,Dir,Cotton,27.9,22.1,200.3,20282880,9.12,11.67,37.3,Sprinkler
 2023-09-07,Peshawar,Sugarcane,30.9,92.2,257.8,39445000,11.27,848.07,45.4,Sprinkler
 2019-11-20,Buner,Rice,14.2,24.5,222.1,2959200,1.2,2.24,35.2,Flood
@@ -3995,7 +3995,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-08-07,Swat,Rice,29.2,35.5,274.0,7768450,2.51,5.8,42.8,Flood
 2022-11-18,Peshawar,Rice,25.9,23.4,242.9,9906360,3.72,10.53,43.2,Sprinkler
 2023-03-02,Mardan,Cotton,22.8,3.6,244.3,20749230,8.37,10.8,27.4,Flood
-2024-05-03,Buner,Cotton,28.2,38.0,,7354200,4.2,3.91,30.8,Sprinkler
+2024-05-03,Buner,Cotton,28.2,38.0,224.6,7354200,4.2,3.91,30.8,Sprinkler
 2018-08-11,Dir,Maize,25.3,41.0,250.7,5863170,2.01,8.56,29.5,Sprinkler
 2019-05-08,Charsadda,Cotton,25.8,30.8,309.5,7146300,2.1,3.65,44.7,Flood
 2024-06-04,Peshawar,Maize,22.9,22.7,406.1,18609920,4.34,21.18,45.5,Flood
@@ -4117,7 +4117,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-03-26,Mardan,Cotton,27.6,123.5,249.8,30722590,8.23,19.92,49.9,Drip
 2020-12-18,Buner,Wheat,26.0,19.3,152.4,8344620,4.86,4.67,34.5,Flood
 2023-07-31,Buner,Maize,26.0,28.6,216.4,14969500,6.11,14.66,36.2,Sprinkler
-2021-04-10,Swat,Maize,32.1,,328.4,27489000,7.35,27.56,50.3,Flood
+2021-04-10,Swat,Maize,32.1,51.9,328.4,27489000,7.35,27.56,50.3,Flood
 2022-09-21,Buner,Cotton,25.7,92.0,88.3,955590,0.53,0.58,37.5,Sprinkler
 2020-05-02,Charsadda,Maize,27.2,14.6,179.2,5736480,2.96,6.63,27.4,Sprinkler
 2023-07-21,Dir,Cotton,34.5,34.9,76.6,2921300,2.62,2.62,22.0,Drip
@@ -4195,7 +4195,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-04-27,Buner,Wheat,35.8,106.0,172.1,29589840,10.64,17.88,47.0,Flood
 2022-09-16,Peshawar,Maize,27.1,24.2,265.1,30607940,10.58,35.34,39.4,Flood
 2022-01-14,Mardan,Wheat,18.0,95.0,249.5,39789750,11.55,29.45,40.7,Sprinkler
-2020-05-26,Peshawar,Maize,26.9,28.0,,19144060,7.54,23.75,29.0,Drip
+2020-05-26,Peshawar,Maize,26.9,28.0,224.6,19144060,7.54,23.75,29.0,Drip
 2024-07-11,Buner,Wheat,23.8,39.3,313.3,21508600,6.1,13.85,39.4,Flood
 2021-11-14,Dir,Rice,11.0,45.4,333.3,37907870,10.01,25.13,36.7,Flood
 2020-05-15,Swat,Maize,12.1,53.4,228.8,4035460,1.43,3.76,38.9,Sprinkler
@@ -4229,7 +4229,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-01-05,Peshawar,Sugarcane,28.5,100.9,185.2,33473700,11.7,495.38,30.4,Sprinkler
 2022-10-07,Mardan,Sugarcane,31.1,93.2,250.4,8246400,2.4,85.68,47.2,Flood
 2023-03-08,Buner,Rice,20.5,3.8,176.0,9115860,5.07,8.52,33.0,Drip
-2020-10-11,Buner,Wheat,26.9,,157.0,28902150,11.85,18.01,41.3,Flood
+2020-10-11,Buner,Wheat,26.9,51.9,157.0,28902150,11.85,18.01,41.3,Flood
 2020-03-06,Dir,Sugarcane,17.6,35.4,281.7,11098500,3.5,168.32,30.8,Flood
 2019-04-29,Peshawar,Maize,25.0,34.7,308.8,6114300,1.78,7.12,50.4,Flood
 2019-10-11,Swat,Cotton,22.6,61.2,282.3,13430850,3.91,7.27,41.1,Flood
@@ -4330,7 +4330,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-02-21,Buner,Wheat,26.6,39.3,180.7,10670000,4.85,7.47,33.5,Drip
 2019-10-21,Dir,Maize,24.3,171.0,175.7,40113190,11.57,46.4,51.5,Flood
 2022-11-01,Swat,Maize,20.2,6.7,341.2,31450160,9.04,29.56,47.5,Flood
-2018-09-04,Swat,Wheat,43.1,43.6,,7617880,2.06,3.13,46.2,Flood
+2018-09-04,Swat,Wheat,43.1,43.6,224.6,7617880,2.06,3.13,46.2,Flood
 2020-11-12,Dir,Rice,18.8,7.1,230.1,16343080,6.89,14.81,46.4,Flood
 2020-07-23,Dir,Maize,18.1,37.7,40.0,8197350,10.55,20.05,21.1,Sprinkler
 2020-06-04,Dir,Maize,26.1,34.8,320.4,40137600,11.3,34.01,41.6,Flood
@@ -4534,7 +4534,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-07-19,Charsadda,Cotton,36.4,88.4,161.2,17971200,7.2,9.0,33.5,Flood
 2019-08-06,Charsadda,Maize,13.3,102.1,210.3,29209400,9.35,22.25,47.3,Flood
 2023-02-01,Buner,Cotton,17.2,125.1,254.1,16912320,4.46,9.5,46.4,Flood
-2018-02-23,Peshawar,Rice,21.7,68.5,,32550880,10.48,24.63,40.8,Flood
+2018-02-23,Peshawar,Rice,21.7,68.5,224.6,32550880,10.48,24.63,40.8,Flood
 2018-11-02,Buner,Cotton,34.9,8.8,181.3,19941490,10.49,9.13,32.0,Flood
 2024-06-22,Charsadda,Wheat,31.6,21.8,242.3,24455660,9.26,12.59,34.5,Sprinkler
 2024-11-06,Dir,Sugarcane,13.0,128.8,212.0,6713760,1.97,102.34,40.3,Drip
@@ -4678,7 +4678,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-11-09,Peshawar,Maize,24.1,83.6,251.8,11336520,3.38,14.16,46.2,Flood
 2021-07-28,Peshawar,Sugarcane,40.0,31.6,238.2,18211500,6.75,154.24,35.8,Flood
 2023-09-29,Peshawar,Rice,20.7,130.5,420.0,65729700,11.94,46.8,55.3,Flood
-2018-05-29,Buner,Rice,23.1,,205.8,28212470,11.99,25.06,36.5,Sprinkler
+2018-05-29,Buner,Rice,23.1,51.9,205.8,28212470,11.99,25.06,36.5,Sprinkler
 2020-07-08,Swat,Maize,26.6,61.2,139.2,5971920,2.98,7.18,44.1,Drip
 2022-12-26,Swat,Wheat,13.8,64.7,218.4,32613120,11.52,22.58,39.0,Flood
 2020-09-06,Charsadda,Cotton,12.9,18.8,159.5,7221150,4.05,3.6,26.4,Flood
@@ -4784,7 +4784,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-05-31,Mardan,Maize,17.1,172.2,286.5,40916040,8.92,36.04,56.7,Sprinkler
 2020-02-18,Charsadda,Wheat,24.7,13.0,185.6,15312060,7.71,11.64,38.3,Sprinkler
 2021-11-17,Dir,Maize,21.3,52.3,63.2,2541000,2.2,3.89,21.9,Drip
-2018-04-25,Mardan,Maize,33.9,,175.9,9041250,3.75,8.44,33.2,Sprinkler
+2018-04-25,Mardan,Maize,33.9,51.9,175.9,9041250,3.75,8.44,33.2,Sprinkler
 2019-03-23,Peshawar,Wheat,12.8,39.5,87.3,5160760,4.07,6.1,31.2,Sprinkler
 2024-12-14,Buner,Rice,18.3,39.4,298.2,25556320,7.57,20.51,38.8,Flood
 2021-03-15,Swat,Wheat,17.8,64.5,236.1,2224440,0.74,1.64,31.6,Flood
@@ -4824,7 +4824,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-02-29,Dir,Maize,30.9,44.8,124.5,14610590,8.63,15.53,29.7,Drip
 2019-07-24,Dir,Rice,32.7,113.0,231.7,35986680,10.44,34.14,49.1,Flood
 2020-06-05,Mardan,Rice,26.4,67.7,205.1,21714880,7.96,23.24,,Sprinkler
-2024-08-01,Mardan,Wheat,19.0,,275.4,25084230,8.11,15.65,38.4,Flood
+2024-08-01,Mardan,Wheat,19.0,51.9,275.4,25084230,8.11,15.65,38.4,Flood
 2018-09-17,Swat,Cotton,17.7,119.5,277.4,45881640,11.56,26.24,46.8,Flood
 2020-09-03,Peshawar,Maize,21.3,135.2,142.0,14497560,5.23,16.95,36.2,Drip
 2023-08-19,Dir,Rice,39.0,82.3,253.1,22270560,6.64,17.6,43.8,Sprinkler
@@ -4836,10 +4836,10 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-04-05,Dir,Cotton,30.1,131.3,277.5,44763600,10.95,22.67,54.2,Flood
 2020-09-10,Peshawar,Wheat,22.0,33.2,298.1,23323520,7.04,15.49,42.2,Flood
 2018-11-05,Buner,Wheat,27.0,39.2,327.1,31098870,8.49,20.29,50.2,Flood
-2018-12-18,Buner,Maize,28.6,14.8,,6695320,2.36,6.25,38.0,Sprinkler
+2018-12-18,Buner,Maize,28.6,14.8,224.6,6695320,2.36,6.25,38.0,Sprinkler
 2024-10-23,Dir,Cotton,21.5,113.4,267.3,44389620,11.66,23.9,47.8,Sprinkler
 2019-05-03,Dir,Cotton,26.3,95.5,192.1,34310680,11.93,17.3,40.7,Sprinkler
-2022-04-24,Charsadda,Maize,36.2,,122.3,12201600,8.2,14.92,27.9,Sprinkler
+2022-04-24,Charsadda,Maize,36.2,51.9,122.3,12201600,8.2,14.92,27.9,Sprinkler
 2019-08-17,Buner,Wheat,20.6,29.2,203.6,6774480,2.91,5.12,35.5,Flood
 2022-08-24,Buner,Wheat,34.2,64.7,397.7,31165760,6.74,16.38,48.5,Flood
 2021-04-16,Swat,Maize,20.9,63.8,204.6,4401760,1.64,4.62,41.2,Sprinkler
@@ -4848,10 +4848,10 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-02-10,Dir,Cotton,22.2,71.5,253.1,9932760,3.06,5.69,44.4,Flood
 2023-08-07,Buner,Rice,35.6,58.2,196.4,29329920,11.52,19.12,37.6,Flood
 2020-01-10,Buner,Rice,35.9,32.0,209.3,21958300,9.1,17.65,30.2,Flood
-2020-01-29,Dir,Wheat,30.7,72.9,,27811030,8.71,16.81,46.4,Flood
+2020-01-29,Dir,Wheat,30.7,72.9,224.6,27811030,8.71,16.81,46.4,Flood
 2023-02-08,Dir,Wheat,17.4,58.0,246.3,28178180,9.26,21.11,38.8,Flood
 2020-12-20,Charsadda,Maize,25.6,34.1,290.5,15061440,4.64,20.37,38.3,Flood
-2018-06-29,Buner,Rice,25.0,,175.9,25327390,11.93,26.01,40.8,Sprinkler
+2018-06-29,Buner,Rice,25.0,51.9,175.9,25327390,11.93,26.01,40.8,Sprinkler
 2018-11-10,Buner,Wheat,19.0,26.4,213.3,17210460,7.18,14.0,33.9,Flood
 2020-08-12,Buner,Wheat,29.9,54.3,231.7,8322600,2.91,6.37,45.5,Drip
 2019-11-24,Charsadda,Wheat,19.6,82.8,298.4,31449000,8.25,25.0,49.9,Drip
@@ -4922,7 +4922,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-02-01,Dir,Wheat,26.5,57.7,228.2,3745290,1.31,2.91,45.4,Drip
 2022-04-10,Dir,Maize,11.2,98.8,237.3,23627830,7.03,16.87,39.4,Flood
 2022-02-04,Peshawar,Maize,16.4,25.7,349.6,31525200,8.4,23.27,37.8,Flood
-2018-10-03,Charsadda,Wheat,13.5,36.2,,11907240,4.02,6.87,37.9,Flood
+2018-10-03,Charsadda,Wheat,13.5,36.2,224.6,11907240,4.02,6.87,37.9,Flood
 2018-05-08,Swat,Wheat,25.8,23.4,105.4,10677520,8.29,9.78,35.5,Drip
 2018-11-17,Buner,Cotton,40.1,32.3,237.2,29564150,10.97,9.65,34.0,Flood
 2019-07-11,Mardan,Maize,16.2,15.6,213.4,18159700,7.93,16.26,39.3,Flood
@@ -4962,7 +4962,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-03-27,Mardan,Rice,18.7,32.3,212.3,10419960,4.26,7.46,36.0,Flood
 2024-05-20,Peshawar,Rice,24.6,135.0,172.1,21251320,6.92,20.48,54.6,Drip
 2018-10-18,Dir,Wheat,19.4,106.0,349.8,32954340,7.23,23.28,47.6,Flood
-2022-10-20,Swat,Cotton,30.7,46.3,,36207210,10.59,17.58,43.2,Flood
+2022-10-20,Swat,Cotton,30.7,46.3,224.6,36207210,10.59,17.58,43.2,Flood
 2023-10-30,Dir,Wheat,24.4,28.0,58.0,5848000,6.8,11.7,27.0,Drip
 2018-03-01,Buner,Wheat,12.9,67.9,108.5,9366840,5.31,5.79,24.7,Flood
 2020-03-05,Swat,Rice,26.2,106.2,196.1,22098130,7.31,17.18,36.5,Flood
@@ -4990,7 +4990,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-05-22,Dir,Rice,27.9,69.4,88.6,18122600,11.47,24.2,31.8,Flood
 2022-02-10,Dir,Rice,30.2,55.6,198.3,24704470,9.73,26.47,39.1,Sprinkler
 2020-08-07,Peshawar,Rice,24.2,54.8,315.9,10935650,2.95,11.68,52.4,Sprinkler
-2020-08-15,Peshawar,Rice,30.6,,104.9,7361380,5.98,10.94,18.3,Drip
+2020-08-15,Peshawar,Rice,30.6,51.9,104.9,7361380,5.98,10.94,18.3,Drip
 2023-11-29,Dir,Rice,30.6,35.5,236.9,13211400,4.85,11.4,40.3,Flood
 2019-06-21,Peshawar,Wheat,15.3,73.2,229.5,36202920,11.96,24.88,37.2,Drip
 2020-11-28,Peshawar,Rice,30.3,15.9,222.2,20952800,8.8,23.76,29.4,Flood
@@ -5001,7 +5001,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-02-04,Mardan,Maize,28.1,14.2,104.0,6690120,5.66,13.3,24.3,Drip
 2022-01-29,Swat,Sugarcane,18.9,93.5,202.1,1980520,0.67,28.27,44.2,Flood
 2021-05-28,Buner,Sugarcane,31.4,43.3,314.4,22213170,6.21,327.27,48.5,Flood
-2022-08-29,Peshawar,Wheat,30.1,,123.8,13758880,7.61,7.84,42.3,Drip
+2022-08-29,Peshawar,Wheat,30.1,51.9,123.8,13758880,7.61,7.84,42.3,Drip
 2018-05-10,Charsadda,Wheat,25.9,48.9,183.2,8912640,3.84,7.1,33.7,Drip
 2022-04-27,Charsadda,Rice,25.1,76.7,318.3,21290500,5.39,16.71,51.9,Flood
 2021-03-11,Dir,Wheat,26.4,22.4,226.0,9141120,3.68,6.59,37.0,Sprinkler
@@ -5131,7 +5131,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-11-05,Peshawar,Rice,23.5,51.5,145.1,8591420,4.37,8.52,38.2,Drip
 2022-11-23,Swat,Cotton,15.1,29.5,277.6,3685200,1.2,1.76,51.8,Sprinkler
 2022-06-04,Mardan,Wheat,28.2,59.7,289.6,9151660,2.62,5.19,46.3,Flood
-2024-11-08,Mardan,Maize,29.6,,248.9,24600380,8.83,23.84,39.0,Flood
+2024-11-08,Mardan,Maize,29.6,51.9,248.9,24600380,8.83,23.84,39.0,Flood
 2022-07-01,Buner,Cotton,30.7,23.2,195.3,6948300,3.18,4.45,36.3,Sprinkler
 2021-04-17,Charsadda,Maize,35.0,16.9,277.2,26263130,8.93,24.2,37.0,Flood
 2018-02-03,Buner,Wheat,31.7,16.7,211.8,22987100,10.06,13.58,34.1,Drip
@@ -5159,7 +5159,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-04-04,Buner,Sugarcane,25.3,41.0,277.2,8750500,2.75,122.07,45.6,Flood
 2022-02-24,Buner,Rice,32.4,29.8,73.2,9290600,9.02,15.69,30.4,Sprinkler
 2023-02-04,Dir,Sugarcane,29.7,78.7,300.1,33902600,8.95,553.11,53.3,Flood
-2018-07-30,Mardan,Wheat,23.7,24.0,,12058200,10.44,13.57,27.5,Sprinkler
+2018-07-30,Mardan,Wheat,23.7,24.0,224.6,12058200,10.44,13.57,27.5,Sprinkler
 2024-12-11,Buner,Maize,29.4,53.5,293.0,7726950,2.23,7.14,41.2,Drip
 2022-04-03,Swat,Rice,14.2,72.5,207.4,3274830,1.17,2.08,42.8,Sprinkler
 2022-04-29,Dir,Maize,32.4,7.3,198.9,15856780,7.69,14.15,33.7,Flood
@@ -5196,7 +5196,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-08-11,Mardan,Wheat,34.9,32.4,226.2,7732140,2.99,4.37,30.7,Sprinkler
 2024-04-05,Mardan,Cotton,26.5,130.8,275.0,11727620,2.89,5.81,49.5,Flood
 2020-02-18,Dir,Wheat,30.0,231.4,91.2,31550280,9.78,22.2,41.8,Sprinkler
-2020-11-04,Dir,Maize,15.8,24.4,,9719580,6.63,11.01,20.8,Drip
+2020-11-04,Dir,Maize,15.8,24.4,224.6,9719580,6.63,11.01,20.8,Drip
 2022-09-07,Peshawar,Maize,15.8,29.5,292.0,11091750,3.45,9.52,45.7,Sprinkler
 2024-09-05,Dir,Sugarcane,27.9,40.6,212.6,5848920,2.31,80.43,25.2,Flood
 2022-03-24,Mardan,Maize,32.2,118.1,218.1,32275200,9.6,27.55,52.1,Sprinkler
@@ -5408,7 +5408,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-01-05,Charsadda,Sugarcane,18.8,20.2,251.4,22081080,8.13,244.88,39.2,Flood
 2020-09-22,Charsadda,Maize,17.3,72.3,194.5,28707680,10.76,23.03,38.2,Flood
 2019-10-27,Peshawar,Maize,30.4,57.5,216.2,29368010,10.73,28.54,35.6,Flood
-2020-03-30,Charsadda,Wheat,22.9,10.2,,28425840,9.96,20.82,45.0,Sprinkler
+2020-03-30,Charsadda,Wheat,22.9,10.2,224.6,28425840,9.96,20.82,45.0,Sprinkler
 2023-08-05,Buner,Maize,31.0,45.7,128.4,13544980,7.78,15.56,29.3,Drip
 2021-08-21,Mardan,Wheat,25.2,58.6,204.7,8056980,3.06,8.35,33.4,Drip
 2019-10-14,Peshawar,Wheat,38.1,76.8,282.2,19314200,5.38,8.23,48.1,Sprinkler
@@ -5432,7 +5432,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-05-16,Dir,Wheat,32.7,63.5,291.1,10070640,2.84,6.45,51.7,Sprinkler
 2022-12-08,Swat,Maize,22.8,55.4,330.9,43806420,11.34,46.95,47.0,Flood
 2020-06-23,Swat,Rice,21.6,56.2,262.9,28399900,8.9,20.29,44.0,Flood
-2024-07-25,Peshawar,Maize,16.6,,230.8,9585760,3.62,8.47,44.5,Flood
+2024-07-25,Peshawar,Maize,16.6,51.9,230.8,9585760,3.62,8.47,44.5,Flood
 2023-06-24,Peshawar,Rice,34.2,88.9,336.4,30834250,7.25,22.26,53.0,Sprinkler
 2023-03-06,Dir,Cotton,22.9,195.7,121.2,2376750,0.75,1.4,46.0,Sprinkler
 2023-05-28,Mardan,Wheat,8.0,56.9,154.1,13841600,6.56,8.13,32.3,Flood
@@ -5519,11 +5519,11 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-01-24,Charsadda,Maize,37.1,129.5,170.3,35676200,11.9,27.49,37.9,Flood
 2021-09-03,Peshawar,Maize,37.5,164.9,262.1,13450500,3.15,11.84,55.5,Flood
 2023-08-28,Peshawar,Cotton,21.9,107.2,166.9,4440420,1.62,2.72,34.5,Flood
-2024-10-24,Mardan,Cotton,31.5,12.5,,11414820,7.22,5.7,32.3,Flood
+2024-10-24,Mardan,Cotton,31.5,12.5,224.6,11414820,7.22,5.7,32.3,Flood
 2018-09-23,Peshawar,Sugarcane,28.0,47.6,127.5,9157730,5.23,162.55,33.7,Drip
 2018-09-07,Charsadda,Wheat,17.4,52.3,204.0,25758150,10.05,18.99,34.1,Sprinkler
 2020-04-24,Dir,Maize,11.8,98.5,119.3,14004540,6.43,13.89,28.2,Drip
-2020-02-18,Peshawar,Cotton,26.0,58.0,,10173380,3.43,6.31,37.9,Sprinkler
+2020-02-18,Peshawar,Cotton,26.0,58.0,224.6,10173380,3.43,6.31,37.9,Sprinkler
 2024-04-07,Buner,Rice,14.5,24.1,334.7,23429640,6.53,17.57,44.2,Flood
 2021-07-22,Peshawar,Cotton,19.0,108.3,269.2,39373250,10.43,19.92,39.7,Flood
 2023-09-02,Swat,Maize,20.2,152.0,40.0,6182400,3.22,8.5,32.4,Drip
@@ -5593,7 +5593,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-02-26,Peshawar,Sugarcane,25.2,49.0,226.2,6164480,2.24,86.84,32.1,Sprinkler
 2020-11-28,Peshawar,Maize,19.7,46.5,177.4,26688880,11.92,26.34,38.6,Sprinkler
 2023-11-02,Peshawar,Rice,28.0,134.4,263.8,43523260,10.93,46.89,45.5,Flood
-2022-09-25,Dir,Sugarcane,20.4,,171.2,15169680,6.48,223.17,37.0,Sprinkler
+2022-09-25,Dir,Sugarcane,20.4,51.9,171.2,15169680,6.48,223.17,37.0,Sprinkler
 2018-11-25,Mardan,Rice,25.5,116.9,325.0,37738260,8.54,25.96,58.1,Flood
 2024-05-24,Peshawar,Wheat,24.0,49.6,274.4,9039600,2.79,6.7,46.2,Flood
 2022-02-12,Charsadda,Maize,13.2,25.6,211.8,1733020,0.73,1.77,38.3,Sprinkler
@@ -5631,7 +5631,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-02-12,Buner,Maize,25.5,36.8,254.6,20718540,7.11,28.37,37.2,Flood
 2024-07-22,Mardan,Wheat,40.4,32.8,261.3,7823060,2.66,3.94,46.1,Sprinkler
 2018-06-09,Peshawar,Rice,29.1,58.6,206.4,27374500,10.33,30.16,43.2,Sprinkler
-2018-02-01,Peshawar,Cotton,29.1,163.7,,9937500,3.75,7.16,40.5,Sprinkler
+2018-02-01,Peshawar,Cotton,29.1,163.7,224.6,9937500,3.75,7.16,40.5,Sprinkler
 2021-07-27,Swat,Maize,19.6,22.6,361.8,16490760,4.29,14.41,45.1,Flood
 2024-01-05,Charsadda,Maize,22.1,32.2,257.7,25569180,8.82,30.61,44.3,Sprinkler
 2018-01-25,Peshawar,Wheat,18.0,48.2,280.2,6009720,1.83,4.58,43.4,Flood
@@ -5640,7 +5640,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-02-25,Buner,Maize,31.4,76.7,275.3,29673600,8.43,38.78,54.8,Drip
 2020-08-05,Dir,Rice,29.1,32.9,304.2,17090970,5.07,18.0,41.0,Sprinkler
 2022-07-11,Charsadda,Maize,13.8,96.5,240.9,31310720,9.28,27.38,42.9,Flood
-2022-06-08,Swat,Cotton,33.0,41.1,,4091860,1.09,1.81,45.3,Flood
+2022-06-08,Swat,Cotton,33.0,41.1,224.6,4091860,1.09,1.81,45.3,Flood
 2023-12-09,Charsadda,Sugarcane,23.2,30.0,357.1,42426160,10.96,568.39,46.3,Flood
 2024-11-27,Charsadda,Cotton,15.8,14.9,210.0,10120500,4.5,5.04,30.5,Sprinkler
 2018-05-20,Peshawar,Maize,27.6,82.1,340.7,21013160,4.97,21.27,58.0,Flood
@@ -5714,7 +5714,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-07-04,Mardan,Maize,27.2,41.2,164.4,15687280,7.63,18.16,38.9,Sprinkler
 2021-10-03,Peshawar,Wheat,22.7,5.6,263.0,7279060,2.71,5.26,35.3,Flood
 2024-07-01,Dir,Maize,16.4,150.7,220.2,41318260,11.14,37.21,49.9,Flood
-2020-11-17,Mardan,Rice,27.4,,133.7,5466420,3.18,5.95,30.7,Drip
+2020-11-17,Mardan,Rice,27.4,51.9,133.7,5466420,3.18,5.95,30.7,Drip
 2019-07-28,Swat,Maize,38.1,41.5,77.8,10128570,8.49,13.41,23.4,Sprinkler
 2018-06-13,Charsadda,Sugarcane,25.1,141.3,324.3,38551680,8.28,779.73,50.4,Flood
 2024-02-03,Buner,Wheat,32.0,16.9,330.4,30215100,8.7,17.83,43.1,Flood
@@ -5879,7 +5879,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-09-25,Swat,Maize,26.9,48.9,280.0,9702550,2.95,11.65,49.7,Flood
 2020-06-29,Peshawar,Rice,33.0,15.6,288.5,35640520,11.72,28.71,36.6,Flood
 2020-08-01,Buner,Sugarcane,12.8,34.7,259.5,2294760,0.78,30.05,39.0,Drip
-2023-03-30,Buner,Wheat,14.4,,95.3,8883000,7.0,8.61,29.6,Sprinkler
+2023-03-30,Buner,Wheat,14.4,51.9,95.3,8883000,7.0,8.61,29.6,Sprinkler
 2023-10-07,Dir,Cotton,28.2,81.3,287.0,35025330,9.51,21.11,42.2,Sprinkler
 2021-04-08,Dir,Sugarcane,18.9,132.8,231.5,42950970,11.79,330.71,38.6,Flood
 2020-05-03,Swat,Cotton,19.4,111.8,188.5,13873860,4.62,7.95,43.1,Drip
@@ -6010,7 +6010,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-11-19,Buner,Rice,18.1,14.6,301.2,32906360,10.42,19.8,38.9,Flood
 2024-10-12,Buner,Cotton,21.4,103.5,230.6,3006900,0.9,1.47,40.9,Flood
 2021-04-22,Mardan,Maize,30.4,73.2,234.9,36663900,11.9,40.46,47.8,Flood
-2024-01-13,Charsadda,Cotton,44.0,59.3,,36584020,9.29,12.08,53.7,Flood
+2024-01-13,Charsadda,Cotton,44.0,59.3,224.6,36584020,9.29,12.08,53.7,Flood
 2020-03-30,Peshawar,Maize,27.1,27.6,296.5,21941570,6.77,20.65,44.0,Flood
 2022-10-18,Peshawar,Rice,17.8,78.1,296.1,19046780,5.09,17.05,37.6,Sprinkler
 2019-12-02,Peshawar,Cotton,20.2,60.5,99.8,19011580,11.86,13.28,25.8,Flood
@@ -6042,7 +6042,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-03-07,Mardan,Cotton,16.6,126.1,321.6,31428540,7.02,14.11,48.9,Sprinkler
 2023-09-11,Mardan,Rice,29.7,186.2,349.0,46241280,8.64,37.32,64.0,Sprinkler
 2018-12-08,Mardan,Sugarcane,25.2,37.1,237.0,21187930,7.73,367.72,43.4,Flood
-2021-07-02,Charsadda,Rice,11.8,40.8,,8067150,3.15,6.84,42.1,Drip
+2021-07-02,Charsadda,Rice,11.8,40.8,224.6,8067150,3.15,6.84,42.1,Drip
 2020-05-14,Peshawar,Maize,21.1,46.1,258.2,33473000,11.0,28.49,33.9,Flood
 2018-03-02,Mardan,Sugarcane,26.8,35.9,238.4,29158090,10.63,478.56,30.6,Flood
 2021-05-07,Buner,Cotton,20.7,153.5,197.7,6848400,1.95,3.3,42.6,Sprinkler
@@ -6103,15 +6103,15 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-09-05,Dir,Wheat,27.4,118.9,304.6,28162750,6.65,19.55,60.6,Sprinkler
 2022-09-20,Mardan,Maize,29.2,50.9,204.5,29907340,11.71,33.02,34.2,Drip
 2018-04-02,Buner,Maize,24.9,76.0,158.4,20088080,8.57,24.51,43.5,Drip
-2022-06-14,Charsadda,Cotton,23.5,24.9,,12278300,3.98,7.16,45.0,Flood
+2022-06-14,Charsadda,Cotton,23.5,24.9,224.6,12278300,3.98,7.16,45.0,Flood
 2018-09-17,Peshawar,Wheat,10.6,43.8,222.0,8718240,3.28,6.4,35.7,Drip
 2024-04-24,Buner,Sugarcane,25.6,37.9,290.1,24501600,7.47,342.95,41.7,Flood
-2022-10-31,Charsadda,Rice,29.2,21.2,,10121760,4.32,9.89,31.9,Sprinkler
+2022-10-31,Charsadda,Rice,29.2,21.2,224.6,10121760,4.32,9.89,31.9,Sprinkler
 2020-05-07,Peshawar,Rice,24.6,9.0,178.7,6100250,3.25,6.21,27.3,Sprinkler
 2022-11-24,Peshawar,Rice,19.5,44.9,240.8,14399280,5.04,12.95,31.6,Sprinkler
 2020-03-13,Dir,Rice,13.2,26.2,139.4,10979280,6.63,8.02,25.0,Drip
 2018-10-21,Mardan,Maize,28.2,62.0,152.5,23852400,11.12,20.68,21.8,Flood
-2018-01-25,Mardan,Wheat,25.2,,168.6,27231300,11.49,20.22,36.9,Sprinkler
+2018-01-25,Mardan,Wheat,25.2,51.9,168.6,27231300,11.49,20.22,36.9,Sprinkler
 2019-07-15,Peshawar,Rice,34.7,149.3,231.8,33917900,8.9,29.37,56.3,Flood
 2022-12-14,Swat,Maize,14.9,36.2,209.4,8055680,3.28,7.12,37.2,Flood
 2021-12-11,Buner,Maize,21.7,115.0,194.4,17945200,5.8,17.86,43.0,Drip
@@ -6130,7 +6130,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-07-27,Swat,Wheat,25.2,92.0,311.2,30320640,7.52,18.5,52.0,Sprinkler
 2024-06-05,Mardan,Sugarcane,26.4,62.5,151.7,17778600,8.3,353.91,48.5,Drip
 2023-06-24,Buner,Wheat,24.0,33.9,180.9,18580200,8.65,12.02,34.8,Flood
-2024-02-27,Mardan,Rice,26.7,,321.4,7029320,1.88,10.04,36.5,Sprinkler
+2024-02-27,Mardan,Rice,26.7,51.9,321.4,7029320,1.88,10.04,36.5,Sprinkler
 2021-04-26,Dir,Wheat,23.7,98.5,263.8,21230780,5.86,18.99,41.2,Sprinkler
 2020-04-03,Mardan,Cotton,33.0,25.1,201.0,21660380,9.58,12.07,32.1,Flood
 2020-10-26,Peshawar,Sugarcane,32.3,23.2,250.5,13903960,5.08,134.32,36.2,Flood
@@ -6184,7 +6184,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-12-14,Swat,Maize,32.2,59.9,164.5,1211760,0.54,1.19,30.0,Flood
 2022-04-28,Dir,Cotton,22.1,26.4,193.0,24638620,11.23,14.15,30.4,Drip
 2020-03-13,Swat,Wheat,24.9,43.0,255.7,7377890,2.47,5.58,40.8,Sprinkler
-2020-08-04,Dir,Rice,19.8,,222.2,7436650,2.21,6.21,53.2,Sprinkler
+2020-08-04,Dir,Rice,19.8,51.9,222.2,7436650,2.21,6.21,53.2,Sprinkler
 2021-05-10,Mardan,Cotton,20.2,114.9,207.1,9434600,2.93,4.34,42.2,Flood
 2020-12-13,Dir,Maize,21.9,36.2,252.1,9975180,3.46,10.66,34.0,Flood
 2019-07-26,Buner,Wheat,11.7,79.0,267.3,38820230,11.21,22.53,48.8,Sprinkler
@@ -6220,7 +6220,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-01-18,Buner,Maize,25.2,67.8,313.2,8496300,2.23,10.59,54.8,Flood
 2021-02-26,Dir,Sugarcane,31.6,57.0,255.9,18179490,5.81,303.22,42.3,Sprinkler
 2024-07-22,Swat,Rice,17.3,52.8,77.4,15142260,11.63,19.19,33.0,Drip
-2019-05-01,Swat,Maize,24.3,140.2,,8762340,2.22,10.19,49.7,Sprinkler
+2019-05-01,Swat,Maize,24.3,140.2,224.6,8762340,2.22,10.19,49.7,Sprinkler
 2019-05-12,Charsadda,Wheat,31.3,148.7,144.9,15179120,5.17,10.44,39.9,Drip
 2020-09-26,Swat,Maize,23.5,26.6,285.8,13495680,4.32,13.26,45.4,Flood
 2018-10-26,Mardan,Wheat,21.6,11.4,272.0,25732720,9.08,17.25,34.1,Flood
@@ -6251,7 +6251,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-07-02,Swat,Maize,24.2,10.7,282.4,27697950,9.45,40.64,42.5,Flood
 2018-06-22,Charsadda,Maize,33.7,103.4,181.6,16216500,5.69,16.22,37.3,Drip
 2023-09-19,Swat,Sugarcane,13.3,60.2,221.2,24538080,8.72,305.98,36.3,Sprinkler
-2020-10-23,Swat,Wheat,13.0,,219.0,4517030,1.73,2.53,29.4,Flood
+2020-10-23,Swat,Wheat,13.0,51.9,219.0,4517030,1.73,2.53,29.4,Flood
 2023-04-30,Peshawar,Wheat,19.4,92.5,243.5,2923200,0.87,2.37,43.8,Sprinkler
 2023-10-31,Swat,Maize,30.8,109.5,272.0,11521300,3.02,12.38,47.8,Flood
 2020-10-24,Buner,Wheat,25.0,50.2,219.2,31735320,11.78,25.09,33.1,Drip
@@ -6276,7 +6276,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-05-16,Peshawar,Wheat,25.6,30.6,355.3,5441190,1.41,4.5,35.8,Sprinkler
 2019-10-15,Buner,Rice,23.2,5.1,259.9,10971000,4.14,11.47,36.1,Flood
 2023-05-20,Buner,Wheat,24.8,99.8,274.9,17423550,4.65,11.02,35.2,Drip
-2020-10-13,Charsadda,Wheat,30.9,,182.1,22345650,7.65,14.92,36.3,Sprinkler
+2020-10-13,Charsadda,Wheat,30.9,51.9,182.1,22345650,7.65,14.92,36.3,Sprinkler
 2020-04-15,Buner,Rice,30.7,102.6,185.7,6140790,2.13,7.5,44.0,Sprinkler
 2023-08-18,Mardan,Rice,32.6,26.4,362.8,41722240,10.72,34.09,49.5,Flood
 2020-06-26,Buner,Wheat,22.2,70.8,261.6,35167920,10.58,31.0,39.4,Flood
@@ -6307,7 +6307,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-09-30,Mardan,Maize,20.4,85.5,136.8,25008750,11.25,31.61,36.1,Drip
 2023-07-28,Charsadda,Wheat,25.0,133.5,227.6,2672140,0.74,1.92,48.2,Flood
 2018-05-06,Buner,Cotton,16.6,28.8,225.3,12857460,5.06,6.73,46.0,Sprinkler
-2019-12-07,Mardan,Wheat,22.4,,316.1,6119840,1.84,4.71,42.5,Flood
+2019-12-07,Mardan,Wheat,22.4,51.9,316.1,6119840,1.84,4.71,42.5,Flood
 2020-11-26,Swat,Wheat,25.2,138.1,275.6,48940710,11.83,34.19,53.6,Sprinkler
 2018-07-28,Mardan,Rice,26.7,40.4,147.0,5172240,2.76,4.97,30.8,Flood
 2023-12-31,Swat,Maize,31.3,42.6,340.0,43004240,11.24,46.98,45.1,Flood
@@ -6342,7 +6342,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-12-18,Swat,Maize,23.2,71.6,240.1,30702450,9.85,39.1,51.3,Flood
 2020-09-01,Dir,Wheat,22.7,22.7,170.4,8554330,4.43,6.33,38.0,Drip
 2019-12-01,Peshawar,Rice,27.8,59.6,170.8,11312640,4.91,10.02,26.6,Flood
-2020-08-08,Charsadda,Wheat,25.2,92.4,,15060150,7.35,11.69,37.4,Sprinkler
+2020-08-08,Charsadda,Wheat,25.2,92.4,224.6,15060150,7.35,11.69,37.4,Sprinkler
 2024-03-28,Swat,Maize,21.9,57.3,229.1,18043200,6.3,15.06,43.3,Flood
 2022-12-04,Charsadda,Maize,18.0,43.5,288.6,37394460,11.26,40.09,41.4,Sprinkler
 2023-12-18,Peshawar,Sugarcane,31.6,76.7,292.7,40301540,10.91,367.99,39.7,Flood
@@ -6359,7 +6359,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-02-14,Buner,Cotton,28.7,76.3,303.0,43050550,11.35,27.01,47.9,Flood
 2023-03-21,Buner,Wheat,17.2,123.6,167.9,11455950,3.93,9.47,39.9,Drip
 2024-01-23,Peshawar,Wheat,35.9,70.5,40.0,2187900,1.98,2.34,25.9,Drip
-2022-02-07,Peshawar,Cotton,38.6,,315.1,24013320,5.82,12.98,,Drip
+2022-02-07,Peshawar,Cotton,38.6,51.9,315.1,24013320,5.82,12.98,,Drip
 2022-08-21,Dir,Maize,14.5,177.9,288.7,20530400,4.4,16.59,51.3,Flood
 2021-07-16,Charsadda,Cotton,23.8,97.0,234.9,39462910,11.89,23.07,48.3,Flood
 2019-01-29,Swat,Rice,34.3,41.4,343.7,19062450,4.95,14.7,48.6,Flood
@@ -6401,7 +6401,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-07-20,Dir,Cotton,30.6,85.2,281.0,39366500,10.75,25.05,45.4,Drip
 2022-08-13,Peshawar,Sugarcane,38.6,42.1,266.3,29606400,9.6,333.31,38.1,Flood
 2021-06-29,Charsadda,Maize,27.6,48.2,208.7,7835450,3.05,8.84,34.8,Flood
-2018-04-15,Swat,Wheat,18.5,,86.6,5569440,3.28,3.51,22.9,Sprinkler
+2018-04-15,Swat,Wheat,18.5,51.9,86.6,5569440,3.28,3.51,22.9,Sprinkler
 2018-10-26,Dir,Wheat,26.2,80.0,186.6,16369240,6.14,10.5,41.2,Sprinkler
 2021-11-18,Charsadda,Maize,32.2,38.3,140.8,7701300,4.3,7.83,34.9,Drip
 2022-08-13,Dir,Rice,25.7,25.5,105.4,9005920,6.88,14.93,25.7,Drip
@@ -6629,7 +6629,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-04-27,Peshawar,Cotton,24.9,75.9,189.6,20549700,7.74,9.91,41.3,Flood
 2024-05-02,Mardan,Rice,19.4,24.9,275.2,32890960,10.96,32.99,43.1,Sprinkler
 2024-06-27,Swat,Maize,33.3,94.0,125.9,25244520,11.48,23.76,32.4,Drip
-2021-03-10,Mardan,Maize,31.8,22.9,,21133940,7.66,22.37,40.5,Drip
+2021-03-10,Mardan,Maize,31.8,22.9,224.6,21133940,7.66,22.37,40.5,Drip
 2018-07-22,Buner,Maize,9.0,126.7,185.5,24101840,7.72,22.39,39.9,Drip
 2023-03-18,Swat,Wheat,30.6,76.0,227.0,13907700,4.59,7.34,33.5,Flood
 2021-10-22,Charsadda,Wheat,27.7,60.8,65.8,14229840,11.24,14.27,29.7,Flood
@@ -6705,7 +6705,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-01-19,Buner,Maize,26.5,55.7,175.5,7213440,3.12,7.71,35.7,Sprinkler
 2019-09-19,Dir,Wheat,25.2,38.6,182.4,25481300,11.53,21.79,26.7,Drip
 2021-06-07,Buner,Rice,26.0,41.4,109.7,16756990,11.09,21.74,31.5,Drip
-2018-11-15,Buner,Maize,18.6,,298.0,43587630,11.79,41.85,43.7,Flood
+2018-11-15,Buner,Maize,18.6,51.9,298.0,43587630,11.79,41.85,43.7,Flood
 2023-04-07,Swat,Wheat,17.5,187.9,325.1,11183400,2.18,7.61,64.3,Flood
 2022-05-15,Swat,Maize,28.8,32.3,297.2,28007500,8.5,33.24,38.4,Drip
 2018-12-29,Mardan,Maize,22.4,83.8,344.6,27888840,6.51,30.4,56.8,Flood
@@ -6718,11 +6718,11 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-05-19,Peshawar,Rice,29.3,98.5,103.7,1819800,0.9,2.27,35.5,Drip
 2022-03-30,Charsadda,Sugarcane,24.8,43.0,289.9,24135250,7.25,316.75,35.6,Sprinkler
 2020-08-03,Swat,Maize,39.5,65.7,282.6,9647910,2.77,7.48,32.7,Sprinkler
-2024-02-17,Charsadda,Cotton,27.9,,248.9,4911690,1.33,3.13,52.2,Sprinkler
+2024-02-17,Charsadda,Cotton,27.9,51.9,248.9,4911690,1.33,3.13,52.2,Sprinkler
 2024-10-04,Dir,Wheat,30.5,14.5,275.3,22256640,7.68,12.6,47.0,Flood
 2020-02-21,Swat,Maize,24.7,43.6,143.1,8980270,4.81,9.96,37.8,Sprinkler
 2022-06-18,Swat,Maize,32.1,29.1,237.6,24136350,9.05,28.15,38.4,Sprinkler
-2020-10-23,Mardan,Rice,23.6,,335.2,17220420,4.74,12.61,40.5,Flood
+2020-10-23,Mardan,Rice,23.6,51.9,335.2,17220420,4.74,12.61,40.5,Flood
 2019-12-01,Swat,Wheat,20.5,69.8,104.7,2879250,1.65,2.62,34.9,Drip
 2019-06-21,Peshawar,Wheat,31.3,68.9,95.7,14698780,8.93,9.82,33.3,Drip
 2021-08-25,Dir,Rice,24.6,45.1,275.2,25656030,8.01,24.99,51.7,Flood
@@ -6746,7 +6746,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-01-08,Dir,Rice,22.5,6.6,230.1,24924510,10.53,21.27,31.6,Sprinkler
 2020-11-23,Dir,Cotton,23.2,248.8,211.2,15732000,3.42,11.39,62.4,Flood
 2018-10-17,Buner,Rice,25.8,119.4,202.9,32230000,10.0,41.5,40.3,Sprinkler
-2022-04-25,Buner,Wheat,23.1,41.1,,3515670,0.87,2.98,51.9,Flood
+2022-04-25,Buner,Wheat,23.1,41.1,224.6,3515670,0.87,2.98,51.9,Flood
 2023-08-16,Mardan,Rice,27.2,11.8,210.4,13598640,6.12,16.1,29.2,Flood
 2021-05-23,Peshawar,Sugarcane,33.6,42.7,308.7,31696280,9.02,387.5,43.8,Sprinkler
 2020-03-09,Charsadda,Cotton,26.0,106.7,277.7,40169800,10.45,19.54,52.7,Flood
@@ -6755,7 +6755,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-09-15,Buner,Maize,21.5,165.2,202.6,39538500,10.75,42.46,53.2,Drip
 2021-05-01,Peshawar,Maize,25.7,48.0,250.8,6782760,2.27,7.79,39.0,Flood
 2019-09-25,Dir,Maize,25.1,44.7,150.1,2142800,1.1,2.05,39.4,Flood
-2020-11-15,Peshawar,Cotton,33.2,73.3,,9433500,2.85,4.67,42.5,Flood
+2020-11-15,Peshawar,Cotton,33.2,73.3,224.6,9433500,2.85,4.67,42.5,Flood
 2020-04-16,Mardan,Rice,18.3,31.3,192.3,7199920,3.22,5.41,34.1,Sprinkler
 2018-09-08,Swat,Rice,35.2,37.4,237.2,7386740,2.69,7.34,41.9,Sprinkler
 2020-11-02,Dir,Maize,24.0,85.0,199.5,20740050,7.29,20.05,46.6,Flood
@@ -6812,7 +6812,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-01-11,Charsadda,Cotton,30.4,29.0,196.7,13361440,5.92,6.45,35.9,Flood
 2019-12-02,Charsadda,Maize,33.0,22.0,164.7,4275430,2.29,3.87,35.1,Drip
 2020-02-18,Mardan,Cotton,22.9,76.0,333.1,20577730,5.03,13.53,52.4,Flood
-2023-07-13,Peshawar,Cotton,25.3,,232.6,10860320,4.12,6.59,41.0,Flood
+2023-07-13,Peshawar,Cotton,25.3,51.9,232.6,10860320,4.12,6.59,41.0,Flood
 2021-12-26,Mardan,Maize,30.9,26.4,167.6,7837600,4.04,6.18,37.7,Sprinkler
 2024-05-05,Swat,Sugarcane,7.8,72.6,235.0,28791360,9.36,294.56,40.6,Flood
 2022-05-30,Dir,Maize,24.3,16.9,154.6,16669800,9.72,17.01,34.3,Drip
@@ -6829,13 +6829,13 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-12-01,Buner,Wheat,35.3,70.6,149.7,1718340,0.78,0.96,36.9,Drip
 2020-11-24,Mardan,Wheat,21.0,99.1,258.5,41445840,11.59,30.37,53.4,Flood
 2021-12-10,Swat,Wheat,32.2,66.1,321.8,23545530,6.07,15.54,53.0,Sprinkler
-2021-01-05,Peshawar,Wheat,25.9,108.1,,6033960,2.22,3.66,42.4,Drip
+2021-01-05,Peshawar,Wheat,25.9,108.1,224.6,6033960,2.22,3.66,42.4,Drip
 2018-06-15,Swat,Wheat,36.6,63.6,249.1,6128920,1.96,3.04,40.4,Flood
 2024-07-20,Mardan,Maize,31.7,141.3,420.0,46812420,8.34,42.62,65.0,Flood
 2022-10-31,Peshawar,Rice,40.4,85.4,217.1,8742250,2.89,6.44,50.2,Sprinkler
 2022-04-08,Buner,Wheat,14.1,133.3,332.8,28898200,6.2,18.04,47.0,Sprinkler
 2019-01-16,Charsadda,Cotton,26.3,40.1,183.7,6109740,2.73,4.34,34.5,Sprinkler
-2019-05-20,Charsadda,Maize,12.9,44.3,,13247180,4.91,9.23,37.4,Flood
+2019-05-20,Charsadda,Maize,12.9,44.3,224.6,13247180,4.91,9.23,37.4,Flood
 2022-03-05,Buner,Cotton,21.4,60.7,124.6,17251430,9.31,7.82,28.1,Flood
 2018-05-15,Buner,Maize,40.7,63.1,294.8,2934780,0.82,1.63,42.5,Flood
 2021-04-22,Dir,Wheat,28.3,50.5,301.6,11020730,3.13,7.14,42.4,Flood
@@ -7015,10 +7015,10 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-09-08,Mardan,Wheat,13.6,50.7,195.3,2681400,1.09,2.35,33.3,Drip
 2024-03-21,Mardan,Rice,25.2,11.5,150.5,8942400,5.52,11.59,37.0,Drip
 2021-06-20,Charsadda,Wheat,28.8,96.3,178.5,3242640,1.18,2.27,47.5,Sprinkler
-2021-02-03,Peshawar,Cotton,23.1,91.8,,2784320,1.12,1.58,29.3,Drip
+2021-02-03,Peshawar,Cotton,23.1,91.8,224.6,2784320,1.12,1.58,29.3,Drip
 2024-12-02,Charsadda,Cotton,27.5,59.8,280.0,5266900,1.55,2.82,41.1,Drip
 2021-10-20,Mardan,Maize,27.4,33.7,231.8,3212550,1.21,3.27,42.2,Flood
-2018-08-20,Swat,Wheat,32.3,,247.0,4492260,1.62,2.11,40.2,Sprinkler
+2018-08-20,Swat,Wheat,32.3,51.9,247.0,4492260,1.62,2.11,40.2,Sprinkler
 2019-10-11,Peshawar,Wheat,29.4,77.5,137.1,10129120,4.72,7.55,34.6,Drip
 2022-02-26,Dir,Rice,27.8,110.1,222.7,20866560,6.27,30.28,38.5,Drip
 2019-08-12,Peshawar,Rice,31.2,33.5,326.5,6084000,1.69,5.48,41.7,Flood
@@ -7085,7 +7085,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-11-13,Peshawar,Maize,16.4,166.1,242.8,25106460,6.14,27.2,57.8,Sprinkler
 2023-04-11,Peshawar,Cotton,16.2,5.6,217.6,17945280,8.04,10.93,34.0,Sprinkler
 2024-08-06,Dir,Sugarcane,24.4,15.2,318.7,6911730,2.07,114.51,43.6,Sprinkler
-2018-08-11,Mardan,Maize,11.3,23.6,,10254040,3.89,8.6,28.1,Sprinkler
+2018-08-11,Mardan,Maize,11.3,23.6,224.6,10254040,3.89,8.6,28.1,Sprinkler
 2024-08-15,Swat,Wheat,37.8,15.3,169.7,6290000,3.4,3.4,25.8,Drip
 2024-05-30,Buner,Wheat,22.5,10.8,71.0,1521480,1.86,2.05,21.7,Drip
 2021-07-21,Swat,Maize,21.9,133.5,106.1,20701440,8.64,19.61,33.5,Flood
@@ -7177,7 +7177,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-09-05,Mardan,Rice,11.9,46.6,79.3,6005430,4.77,6.53,24.9,Drip
 2024-06-24,Charsadda,Rice,34.0,85.0,199.1,1505730,0.53,1.39,38.6,Flood
 2022-01-28,Charsadda,Cotton,26.6,138.2,191.0,24591240,7.47,18.3,34.5,Drip
-2024-02-26,Mardan,Rice,22.8,96.9,,1884420,0.58,1.97,34.9,Drip
+2024-02-26,Mardan,Rice,22.8,96.9,224.6,1884420,0.58,1.97,34.9,Drip
 2024-01-18,Swat,Rice,33.3,41.3,128.9,18500740,10.87,15.22,33.9,Flood
 2021-02-01,Mardan,Rice,10.8,20.2,225.1,18176730,7.41,11.26,32.8,Flood
 2021-09-14,Charsadda,Sugarcane,25.8,31.0,239.9,11621610,4.29,181.25,46.8,Flood
@@ -7348,7 +7348,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-09-05,Buner,Wheat,25.7,14.7,311.7,18115200,5.55,13.93,36.5,Flood
 2024-01-01,Mardan,Wheat,13.2,53.7,332.0,22447740,5.82,16.53,48.2,Flood
 2022-04-16,Dir,Cotton,19.0,108.3,286.6,2092970,0.53,1.2,55.0,Flood
-2021-09-08,Charsadda,Wheat,26.4,,271.3,21460480,6.64,12.48,49.2,Flood
+2021-09-08,Charsadda,Wheat,26.4,51.9,271.3,21460480,6.64,12.48,49.2,Flood
 2023-08-23,Charsadda,Cotton,15.5,241.7,237.1,19056240,3.98,9.59,65.0,Drip
 2024-05-11,Dir,Maize,33.7,65.0,279.5,10713950,3.11,11.07,41.5,Sprinkler
 2023-07-26,Mardan,Maize,28.7,61.7,239.6,5242620,1.74,6.51,40.2,Sprinkler
@@ -7501,7 +7501,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-07-21,Swat,Wheat,32.0,61.9,264.8,34760880,10.64,22.45,53.4,Sprinkler
 2021-01-22,Dir,Sugarcane,35.1,54.2,239.9,24410300,8.3,358.15,43.3,Sprinkler
 2020-05-13,Buner,Wheat,24.9,69.6,207.5,11915300,4.3,9.59,35.8,Drip
-2022-11-27,Charsadda,Wheat,27.1,,168.6,19120640,10.67,14.51,29.8,Drip
+2022-11-27,Charsadda,Wheat,27.1,51.9,168.6,19120640,10.67,14.51,29.8,Drip
 2023-02-01,Peshawar,Cotton,24.9,11.7,312.1,23799300,7.35,11.98,47.5,Flood
 2019-10-27,Charsadda,Maize,25.7,26.8,203.6,18478080,8.02,19.89,31.4,Sprinkler
 2020-08-26,Mardan,Wheat,32.8,62.0,274.8,36206000,10.75,24.19,44.5,Flood
@@ -7584,7 +7584,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-03-25,Charsadda,Maize,15.8,41.5,323.8,27470560,7.52,29.55,51.5,Flood
 2023-08-28,Swat,Sugarcane,26.6,93.7,253.4,29191110,8.41,602.66,34.3,Flood
 2020-05-18,Buner,Maize,39.4,35.0,266.9,6158760,2.04,5.59,42.6,Drip
-2021-06-06,Buner,Rice,20.1,86.3,,7630750,2.33,5.31,38.2,Sprinkler
+2021-06-06,Buner,Rice,20.1,86.3,224.6,7630750,2.33,5.31,38.2,Sprinkler
 2024-03-19,Charsadda,Wheat,20.9,103.4,218.0,32397120,10.08,23.59,43.0,Flood
 2023-11-14,Buner,Maize,17.6,73.3,175.7,17679000,7.1,18.25,32.1,Sprinkler
 2021-03-05,Buner,Maize,33.3,18.4,322.8,10679560,3.13,10.55,43.5,Sprinkler
@@ -7598,7 +7598,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-08-03,Peshawar,Cotton,34.0,38.2,151.5,16579780,8.74,8.04,41.3,Drip
 2021-03-01,Mardan,Rice,20.0,40.5,173.1,19565760,9.16,16.21,46.1,Flood
 2024-02-24,Buner,Maize,8.8,16.3,242.9,29522880,11.39,22.1,31.4,Flood
-2024-10-16,Swat,Rice,43.2,,190.3,10236150,3.45,5.76,43.8,Flood
+2024-10-16,Swat,Rice,43.2,51.9,190.3,10236150,3.45,5.76,43.8,Flood
 2018-05-14,Buner,Sugarcane,26.5,42.4,259.4,2716200,0.9,34.92,37.3,Flood
 2020-06-27,Buner,Cotton,30.4,86.4,300.1,14802950,3.83,7.32,51.5,Flood
 2021-08-24,Swat,Cotton,19.5,68.6,240.3,33948110,10.99,21.98,49.9,Sprinkler
@@ -7620,7 +7620,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-12-25,Swat,Wheat,22.1,10.3,59.3,5762880,8.28,12.83,22.6,Drip
 2019-10-01,Charsadda,Cotton,17.4,120.7,196.6,16943820,5.34,8.7,37.9,Flood
 2024-04-05,Dir,Sugarcane,27.4,160.4,246.0,5405120,1.33,67.39,56.6,Flood
-2019-04-05,Peshawar,Sugarcane,33.9,61.9,,15891190,7.91,293.86,36.5,Drip
+2019-04-05,Peshawar,Sugarcane,33.9,61.9,224.6,15891190,7.91,293.86,36.5,Drip
 2020-07-24,Dir,Sugarcane,13.9,30.2,207.3,1781250,0.75,24.04,34.2,Drip
 2018-12-10,Buner,Maize,25.8,86.3,124.4,17003490,8.07,18.96,33.2,Drip
 2024-07-28,Dir,Cotton,10.7,47.6,337.8,5241440,1.36,2.12,41.6,Sprinkler
@@ -7638,9 +7638,9 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-09-13,Buner,Wheat,29.6,13.2,318.7,13176430,3.97,7.9,40.3,Sprinkler
 2023-05-21,Charsadda,Sugarcane,27.8,51.0,168.8,10330600,4.7,184.1,35.1,Sprinkler
 2019-07-18,Charsadda,Maize,29.2,27.3,368.5,31070300,7.85,42.39,50.6,Sprinkler
-2024-11-09,Dir,Maize,29.9,41.1,,18082640,5.96,14.13,43.3,Flood
+2024-11-09,Dir,Maize,29.9,41.1,224.6,18082640,5.96,14.13,43.3,Flood
 2024-06-07,Peshawar,Maize,31.4,30.4,201.1,5301350,2.29,4.67,37.9,Flood
-2021-01-28,Charsadda,Maize,14.3,40.9,,12051220,7.78,14.63,33.4,Sprinkler
+2021-01-28,Charsadda,Maize,14.3,40.9,224.6,12051220,7.78,14.63,33.4,Sprinkler
 2019-06-06,Mardan,Rice,21.8,11.6,212.3,17038790,7.61,17.58,32.0,Sprinkler
 2020-08-15,Peshawar,Rice,13.6,25.2,268.4,2025840,0.69,1.3,32.7,Flood
 2020-09-20,Buner,Rice,27.3,70.0,145.8,10552620,4.89,12.32,31.8,Sprinkler
@@ -7650,7 +7650,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-08-14,Peshawar,Wheat,28.5,8.9,119.2,9005430,7.03,8.93,28.0,Drip
 2024-06-26,Charsadda,Rice,27.4,60.8,176.3,12281780,5.18,15.02,40.1,Drip
 2024-07-04,Mardan,Wheat,26.6,104.4,374.7,56773350,11.85,34.48,48.3,Flood
-2022-04-05,Peshawar,Sugarcane,15.9,13.3,,13578880,7.84,210.27,19.3,Sprinkler
+2022-04-05,Peshawar,Sugarcane,15.9,13.3,224.6,13578880,7.84,210.27,19.3,Sprinkler
 2018-10-03,Swat,Wheat,34.2,82.2,140.8,24864500,11.15,11.71,33.2,Flood
 2022-04-28,Swat,Maize,16.8,12.9,195.8,25023130,11.99,26.38,35.8,Sprinkler
 2024-05-17,Buner,Wheat,22.4,50.2,202.3,14594500,5.78,10.92,44.1,Flood
@@ -7830,13 +7830,13 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-05-14,Peshawar,Sugarcane,22.0,30.5,97.8,10110040,7.88,176.35,22.0,Sprinkler
 2018-08-06,Mardan,Wheat,25.3,178.4,105.0,6631560,2.34,5.43,42.0,Drip
 2023-12-03,Swat,Rice,26.1,71.5,180.3,15636780,6.21,14.66,38.8,Flood
-2019-01-13,Swat,Maize,28.1,,306.1,11851470,3.33,12.35,52.3,Flood
+2019-01-13,Swat,Maize,28.1,51.9,306.1,11851470,3.33,12.35,52.3,Flood
 2018-03-17,Mardan,Wheat,26.6,127.7,135.6,5081690,1.93,3.63,43.9,Drip
 2018-04-08,Peshawar,Wheat,29.5,14.8,209.9,3999660,1.78,2.72,37.8,Sprinkler
 2023-06-19,Dir,Wheat,23.1,48.0,333.1,29497140,7.74,15.79,46.4,Flood
 2020-05-27,Peshawar,Wheat,39.5,40.6,224.6,7372560,2.78,2.64,29.2,Sprinkler
 2020-11-30,Mardan,Cotton,21.6,94.5,208.5,12271500,4.05,5.99,38.4,Flood
-2023-10-04,Peshawar,Rice,34.5,,188.3,5549760,2.82,4.06,23.9,Drip
+2023-10-04,Peshawar,Rice,34.5,51.9,188.3,5549760,2.82,4.06,23.9,Drip
 2019-10-31,Charsadda,Maize,20.8,34.2,124.1,3086850,1.95,4.31,32.9,Drip
 2021-11-15,Mardan,Cotton,15.0,5.6,105.9,590950,0.53,0.42,26.5,Sprinkler
 2020-02-02,Mardan,Maize,13.3,35.9,199.3,14206080,6.04,13.47,36.6,Drip
@@ -7885,7 +7885,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-03-14,Swat,Cotton,22.9,87.7,258.9,22147740,6.39,16.68,48.1,Drip
 2019-01-21,Charsadda,Cotton,31.9,16.3,226.1,17355840,7.16,8.16,39.3,Drip
 2018-05-22,Swat,Cotton,25.5,54.1,236.1,7980500,2.75,4.56,40.2,Sprinkler
-2021-11-23,Swat,Rice,15.5,114.7,,3383780,0.89,2.55,49.4,Drip
+2021-11-23,Swat,Rice,15.5,114.7,224.6,3383780,0.89,2.55,49.4,Drip
 2020-09-30,Peshawar,Wheat,25.2,100.5,237.7,20630200,6.1,14.52,41.8,Drip
 2019-07-10,Charsadda,Cotton,18.7,26.6,197.0,23567440,10.54,12.44,40.4,Flood
 2022-02-28,Swat,Rice,16.4,47.2,285.9,11158850,3.35,9.65,56.2,Sprinkler
@@ -7906,7 +7906,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-08-31,Peshawar,Wheat,29.3,77.3,115.9,10954440,5.67,6.52,34.6,Sprinkler
 2021-02-03,Dir,Cotton,28.4,55.9,358.9,16509040,3.98,9.67,53.6,Flood
 2022-03-29,Charsadda,Sugarcane,32.6,50.8,298.0,7185280,2.06,80.79,41.5,Flood
-2019-08-01,Charsadda,Sugarcane,23.4,,177.7,17831790,8.29,315.19,43.6,Sprinkler
+2019-08-01,Charsadda,Sugarcane,23.4,51.9,177.7,17831790,8.29,315.19,43.6,Sprinkler
 2020-12-22,Buner,Rice,22.6,123.1,171.3,1943040,0.66,1.74,48.0,Sprinkler
 2018-12-17,Buner,Wheat,17.2,78.7,276.3,29607000,8.34,20.43,43.6,Sprinkler
 2020-11-28,Buner,Maize,21.2,68.9,237.1,35190000,11.5,43.12,41.9,Sprinkler
@@ -7994,7 +7994,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-08-09,Charsadda,Rice,23.2,72.1,280.4,8424750,2.39,8.17,37.0,Flood
 2018-10-10,Buner,Wheat,23.5,127.5,234.3,20694960,5.72,17.1,48.3,Drip
 2020-03-03,Dir,Sugarcane,25.4,41.7,221.8,9301550,3.53,150.7,34.9,Flood
-2024-01-06,Mardan,Rice,36.6,,258.0,15454410,3.61,15.13,53.9,Sprinkler
+2024-01-06,Mardan,Rice,36.6,51.9,258.0,15454410,3.61,15.13,53.9,Sprinkler
 2022-02-06,Charsadda,Cotton,27.4,106.9,137.4,24039120,9.84,15.06,42.9,Drip
 2021-12-07,Mardan,Rice,18.4,35.6,280.3,22397310,7.09,16.45,37.8,Flood
 2021-11-08,Buner,Cotton,22.0,25.7,138.5,2774980,1.69,1.45,40.9,Sprinkler
@@ -8081,7 +8081,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2020-11-07,Charsadda,Cotton,40.8,32.1,68.8,11896110,11.79,10.85,14.9,Drip
 2019-06-21,Dir,Rice,25.1,30.4,288.1,22358700,7.02,19.59,27.0,Flood
 2024-10-25,Mardan,Rice,26.3,46.1,222.3,16130840,6.01,15.21,39.4,Sprinkler
-2023-03-14,Peshawar,Rice,28.4,15.7,,27446040,11.61,25.54,33.4,Sprinkler
+2023-03-14,Peshawar,Rice,28.4,15.7,224.6,27446040,11.61,25.54,33.4,Sprinkler
 2022-11-23,Charsadda,Maize,32.1,76.9,89.8,13636060,8.18,14.48,33.7,Drip
 2022-07-22,Charsadda,Maize,31.7,8.4,227.8,4771240,2.02,5.47,44.1,Drip
 2022-04-24,Buner,Sugarcane,27.2,162.9,187.5,10301760,2.94,150.94,52.3,Sprinkler
@@ -8172,7 +8172,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-04-30,Dir,Cotton,29.8,24.3,197.1,6110640,2.76,4.0,26.4,Sprinkler
 2023-10-21,Dir,Wheat,15.6,38.8,294.1,26032780,7.82,14.94,47.0,Flood
 2019-01-11,Swat,Cotton,29.5,43.7,313.7,15153760,4.24,8.82,44.9,Flood
-2022-10-25,Peshawar,Maize,31.5,106.2,,28831140,10.53,29.91,39.7,Sprinkler
+2022-10-25,Peshawar,Maize,31.5,106.2,224.6,28831140,10.53,29.91,39.7,Sprinkler
 2020-04-24,Buner,Wheat,29.0,23.3,216.6,4558100,1.9,2.66,32.4,Flood
 2018-06-27,Peshawar,Wheat,24.1,60.2,249.2,3712800,1.2,2.59,37.0,Flood
 2018-06-08,Buner,Maize,28.7,73.5,257.5,2714200,0.82,3.13,39.7,Drip
@@ -8290,7 +8290,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-01-02,Peshawar,Maize,27.0,45.9,171.3,4148520,1.91,5.04,40.6,Drip
 2022-05-26,Mardan,Cotton,25.4,49.0,212.0,29597400,11.34,21.43,39.7,Drip
 2021-02-27,Mardan,Sugarcane,26.5,12.3,278.9,6697600,2.3,140.53,43.5,Sprinkler
-2022-06-29,Swat,Maize,27.9,,259.1,3548200,1.13,3.37,39.0,Flood
+2022-06-29,Swat,Maize,27.9,51.9,259.1,3548200,1.13,3.37,39.0,Flood
 2023-01-16,Buner,Maize,37.2,83.2,287.9,3748110,1.01,2.04,39.4,Flood
 2020-11-17,Buner,Wheat,5.6,27.2,49.9,2868120,3.72,3.53,21.6,Sprinkler
 2023-11-23,Buner,Wheat,37.9,41.3,146.4,4410950,2.35,2.44,38.3,Drip
@@ -8432,7 +8432,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-03-08,Buner,Cotton,15.4,66.3,238.4,32084910,10.53,13.37,42.0,Flood
 2023-09-01,Swat,Rice,41.6,25.7,170.3,1470000,0.75,1.13,26.1,Drip
 2022-10-07,Buner,Rice,18.2,25.1,229.7,22804600,8.95,18.97,39.8,Flood
-2024-01-07,Charsadda,Maize,31.2,,173.5,15349500,6.75,16.06,30.6,Sprinkler
+2024-01-07,Charsadda,Maize,31.2,51.9,173.5,15349500,6.75,16.06,30.6,Sprinkler
 2018-03-02,Mardan,Cotton,35.1,64.2,181.9,18900480,7.68,8.29,38.0,Flood
 2018-12-10,Buner,Maize,28.2,18.1,143.8,8953070,5.53,12.77,39.6,Drip
 2023-11-09,Swat,Rice,10.6,35.1,225.0,5045940,1.94,2.68,31.9,Drip
@@ -8610,7 +8610,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-09-02,Charsadda,Rice,27.6,55.5,168.6,10779210,4.81,10.29,37.0,Flood
 2018-02-06,Buner,Rice,24.0,25.5,97.0,13720000,11.2,18.26,20.3,Flood
 2019-12-08,Swat,Cotton,35.6,80.7,229.5,35828100,11.55,17.9,41.8,Flood
-2024-10-08,Buner,Maize,21.5,109.8,,4299260,2.87,6.49,33.5,Drip
+2024-10-08,Buner,Maize,21.5,109.8,224.6,4299260,2.87,6.49,33.5,Drip
 2024-05-24,Mardan,Maize,17.5,22.2,248.9,17106410,6.31,15.96,36.1,Flood
 2022-06-05,Peshawar,Maize,36.6,34.8,298.0,32514560,9.77,27.55,43.1,Flood
 2020-08-13,Swat,Cotton,9.6,109.5,256.5,32244600,8.81,13.39,47.8,Flood
@@ -8658,7 +8658,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-02-16,Mardan,Cotton,24.0,3.9,278.0,17787890,6.31,11.86,40.8,Flood
 2020-03-05,Dir,Maize,23.9,51.7,232.4,6136560,2.16,5.81,53.5,Sprinkler
 2019-03-10,Swat,Maize,27.7,30.2,238.3,27682350,10.31,33.71,28.6,Sprinkler
-2019-04-02,Dir,Wheat,39.2,134.7,,24641180,7.61,11.42,43.8,Flood
+2019-04-02,Dir,Wheat,39.2,134.7,224.6,24641180,7.61,11.42,43.8,Flood
 2019-06-03,Dir,Maize,28.3,190.1,272.6,50758190,10.97,45.2,,Flood
 2020-07-25,Buner,Maize,22.0,30.6,221.5,19588170,7.77,19.11,35.6,Flood
 2023-01-26,Peshawar,Cotton,20.8,146.7,175.1,6564720,2.04,3.08,41.4,Flood
@@ -8673,7 +8673,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-08-21,Buner,Cotton,32.8,135.9,181.0,6940110,2.19,4.05,46.4,Drip
 2023-08-18,Swat,Wheat,33.3,37.7,302.9,22683960,6.66,13.05,61.3,Flood
 2018-09-23,Buner,Wheat,21.3,27.7,223.2,27573910,10.99,18.79,42.8,Flood
-2018-08-08,Dir,Maize,28.7,30.2,,20120430,6.27,26.08,44.8,Sprinkler
+2018-08-08,Dir,Maize,28.7,30.2,224.6,20120430,6.27,26.08,44.8,Sprinkler
 2021-01-26,Buner,Cotton,14.5,27.1,204.5,12066360,5.21,4.38,25.9,Flood
 2018-05-26,Charsadda,Maize,22.9,39.0,129.5,4903350,2.91,5.24,31.8,Flood
 2018-02-11,Peshawar,Rice,26.6,40.2,263.5,32465530,10.69,35.6,47.5,Drip
@@ -8742,7 +8742,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-07-16,Buner,Maize,33.9,33.6,264.4,1728400,0.58,1.83,35.2,Flood
 2022-05-22,Swat,Maize,19.5,105.9,267.7,21332560,5.71,21.41,49.4,Flood
 2021-02-04,Dir,Maize,34.4,41.6,189.1,13472880,5.84,15.94,36.6,Sprinkler
-2021-03-12,Buner,Sugarcane,19.4,17.3,,13898500,7.22,255.73,36.2,Drip
+2021-03-12,Buner,Sugarcane,19.4,17.3,224.6,13898500,7.22,255.73,36.2,Drip
 2024-08-29,Mardan,Maize,19.7,24.8,233.4,4854160,1.88,5.06,34.5,Sprinkler
 2021-11-14,Peshawar,Cotton,20.1,105.2,306.8,42848000,10.4,23.71,42.4,Flood
 2022-01-22,Buner,Cotton,20.4,35.3,267.2,9226250,3.05,5.37,42.0,Sprinkler
@@ -8809,7 +8809,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-07-13,Swat,Rice,14.2,108.0,203.6,17543080,5.63,10.19,33.6,Sprinkler
 2023-08-08,Charsadda,Maize,19.8,26.4,120.2,2712100,1.85,3.85,30.5,Drip
 2024-12-14,Mardan,Cotton,28.9,40.0,240.0,20664000,7.38,12.62,42.2,Flood
-2022-03-23,Dir,Wheat,22.0,89.9,,12715000,5.0,10.45,32.9,Drip
+2022-03-23,Dir,Wheat,22.0,89.9,224.6,12715000,5.0,10.45,32.9,Drip
 2023-12-18,Peshawar,Sugarcane,33.9,101.2,251.6,14217840,4.03,130.77,42.5,Flood
 2023-06-03,Peshawar,Maize,22.2,98.0,135.7,11147490,4.77,12.74,32.6,Drip
 2023-10-25,Dir,Maize,32.6,28.3,151.0,11439340,6.38,10.97,33.9,Sprinkler
@@ -8887,7 +8887,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-04-26,Dir,Maize,35.6,29.1,244.6,16558850,6.05,18.03,34.4,Sprinkler
 2023-02-23,Charsadda,Cotton,21.9,91.9,323.5,33315080,8.02,17.48,48.6,Flood
 2019-02-20,Dir,Cotton,14.4,18.6,202.0,7213620,3.27,4.05,35.7,Sprinkler
-2018-04-25,Peshawar,Maize,26.2,105.4,,16389800,4.6,17.3,47.5,Flood
+2018-04-25,Peshawar,Maize,26.2,105.4,224.6,16389800,4.6,17.3,47.5,Flood
 2019-02-25,Buner,Wheat,23.7,79.4,131.1,4420500,2.1,3.51,42.1,Drip
 2024-05-17,Dir,Cotton,19.5,84.8,249.1,1970010,0.59,0.96,40.8,Sprinkler
 2019-10-27,Mardan,Cotton,20.9,20.7,205.8,6002250,2.65,3.52,35.6,Drip
@@ -8944,7 +8944,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-01-11,Dir,Sugarcane,30.1,97.8,40.0,5994300,4.35,148.55,32.9,Drip
 2019-07-03,Swat,Wheat,33.6,59.3,148.4,7518740,3.62,4.63,32.1,Drip
 2021-07-05,Buner,Wheat,18.5,113.5,216.8,5714190,1.73,4.36,44.1,Flood
-2018-11-14,Peshawar,Sugarcane,23.9,,122.6,32014160,10.16,516.03,43.3,Drip
+2018-11-14,Peshawar,Sugarcane,23.9,51.9,122.6,32014160,10.16,516.03,43.3,Drip
 2023-11-02,Buner,Sugarcane,21.6,50.6,183.8,2297120,0.98,35.14,40.0,Drip
 2023-10-19,Buner,Wheat,32.5,29.4,187.4,25539040,11.78,14.61,30.1,Flood
 2023-08-15,Dir,Cotton,34.9,61.6,72.0,5116880,3.83,3.29,30.8,Drip
@@ -9127,7 +9127,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-07-18,Swat,Cotton,28.4,72.9,86.1,9492300,5.97,6.51,27.5,Sprinkler
 2021-01-23,Dir,Rice,20.8,33.8,256.9,5843070,2.01,5.55,45.8,Drip
 2019-11-07,Charsadda,Maize,35.5,62.4,145.9,5603270,2.69,5.19,36.3,Drip
-2024-09-28,Buner,Cotton,25.1,,171.6,8047800,3.06,5.23,44.7,Drip
+2024-09-28,Buner,Cotton,25.1,51.9,171.6,8047800,3.06,5.23,44.7,Drip
 2018-08-23,Buner,Rice,28.8,45.9,147.0,20640300,10.7,22.58,37.6,Drip
 2018-12-02,Peshawar,Cotton,23.1,77.6,203.9,20943600,7.44,12.5,32.8,Flood
 2024-09-13,Peshawar,Cotton,32.4,38.4,217.1,2912700,1.14,1.45,39.8,Drip
@@ -9169,7 +9169,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-02-18,Dir,Sugarcane,20.5,27.6,399.1,19244170,4.51,260.09,52.6,Flood
 2018-04-24,Charsadda,Maize,20.1,33.6,188.9,15931000,7.16,15.82,26.7,Drip
 2024-01-24,Charsadda,Sugarcane,16.0,59.3,197.9,26182960,10.18,409.03,46.5,Sprinkler
-2024-01-22,Peshawar,Cotton,13.2,63.2,,27472500,9.9,12.97,45.4,Sprinkler
+2024-01-22,Peshawar,Cotton,13.2,63.2,224.6,27472500,9.9,12.97,45.4,Sprinkler
 2020-07-23,Charsadda,Wheat,23.5,143.8,287.5,42310530,9.81,38.16,50.9,Sprinkler
 2021-12-26,Buner,Maize,26.0,43.2,310.3,19265750,5.45,23.71,39.1,Flood
 2021-07-04,Peshawar,Maize,20.0,27.8,49.7,4719750,6.09,13.46,28.5,Drip
@@ -9298,7 +9298,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2021-11-28,Charsadda,Wheat,30.7,13.7,254.6,25327520,9.44,16.71,34.3,Flood
 2018-09-08,Swat,Rice,24.5,39.0,222.7,17403050,6.65,19.22,28.9,Flood
 2023-02-07,Dir,Wheat,19.0,92.6,177.4,20358000,7.54,14.33,49.0,Drip
-2023-04-27,Mardan,Maize,19.9,160.7,,30557800,8.05,22.62,43.0,Flood
+2023-04-27,Mardan,Maize,19.9,160.7,224.6,30557800,8.05,22.62,43.0,Flood
 2020-10-25,Swat,Cotton,31.7,46.9,402.4,36078790,8.03,17.18,56.6,Flood
 2021-07-24,Dir,Maize,13.8,62.0,200.5,22312500,8.5,21.67,33.1,Drip
 2018-01-28,Peshawar,Maize,41.8,94.5,257.7,21906840,6.22,16.05,50.9,Sprinkler
@@ -9306,7 +9306,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-06-13,Mardan,Cotton,15.4,64.9,79.1,16531200,11.48,11.94,21.4,Drip
 2024-10-16,Buner,Maize,26.3,128.9,132.3,1802280,0.69,2.19,39.6,Sprinkler
 2022-03-12,Charsadda,Wheat,19.4,62.8,163.7,1562850,0.69,1.08,44.3,Drip
-2019-08-12,Buner,Cotton,22.1,,241.5,31544260,11.29,15.58,39.2,Flood
+2019-08-12,Buner,Cotton,22.1,51.9,241.5,31544260,11.29,15.58,39.2,Flood
 2020-01-11,Peshawar,Rice,14.4,127.4,280.4,25242820,6.19,19.44,54.9,Flood
 2024-06-30,Mardan,Rice,23.3,58.6,267.1,32244300,9.9,27.92,43.9,Flood
 2018-04-21,Charsadda,Wheat,10.1,17.9,224.4,11969620,4.94,6.87,39.9,Flood
@@ -9321,7 +9321,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-08-07,Buner,Maize,21.5,18.6,194.9,8433250,3.95,10.7,43.2,Sprinkler
 2021-03-17,Swat,Maize,27.3,26.8,126.5,2882040,1.88,3.74,26.8,Sprinkler
 2018-02-26,Charsadda,Maize,27.5,53.9,287.5,15465420,4.53,20.39,41.5,Sprinkler
-2024-12-14,Charsadda,Cotton,33.1,60.6,,19110000,7.8,6.01,33.9,Flood
+2024-12-14,Charsadda,Cotton,33.1,60.6,224.6,19110000,7.8,6.01,33.9,Flood
 2021-10-13,Dir,Rice,19.9,84.4,223.8,36336780,11.79,27.59,49.4,Drip
 2021-01-03,Mardan,Rice,30.5,22.2,181.2,18448380,9.07,16.24,26.0,Sprinkler
 2018-07-08,Mardan,Maize,19.0,54.6,310.9,27851100,7.62,23.93,46.9,Flood
@@ -9438,7 +9438,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2018-01-11,Buner,Wheat,30.5,115.8,175.2,13269600,4.56,9.07,35.6,Sprinkler
 2019-12-21,Peshawar,Maize,17.9,80.5,126.6,16112380,7.78,18.52,30.8,Drip
 2022-11-11,Mardan,Rice,29.7,71.7,352.6,17863030,4.21,17.22,51.0,Flood
-2022-09-29,Buner,Sugarcane,25.1,,199.7,13759800,5.7,234.16,34.9,Drip
+2022-09-29,Buner,Sugarcane,25.1,51.9,199.7,13759800,5.7,234.16,34.9,Drip
 2022-09-06,Mardan,Wheat,19.5,111.4,179.9,23449650,8.05,21.57,42.2,Sprinkler
 2022-09-06,Mardan,Maize,15.7,123.0,229.5,12126000,3.44,14.59,41.9,Drip
 2018-07-13,Swat,Wheat,38.2,67.9,249.6,13462000,4.24,7.04,44.3,Drip
@@ -9498,7 +9498,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-04-26,Mardan,Cotton,25.4,62.9,206.5,23276160,8.64,18.32,43.3,Drip
 2024-08-19,Dir,Wheat,18.0,23.4,40.0,7348060,11.59,17.15,23.8,Drip
 2021-12-04,Dir,Maize,27.4,16.9,56.3,8454600,11.55,17.79,30.9,Sprinkler
-2024-08-19,Buner,Cotton,30.5,25.8,,9178140,2.91,5.65,42.7,Drip
+2024-08-19,Buner,Cotton,30.5,25.8,224.6,9178140,2.91,5.65,42.7,Drip
 2024-10-16,Dir,Wheat,28.2,51.0,420.0,41966100,8.91,27.98,58.2,Flood
 2024-09-02,Swat,Cotton,37.5,123.9,243.0,21500340,5.86,8.38,45.8,Sprinkler
 2024-09-28,Swat,Maize,22.0,36.6,355.7,30403250,7.75,30.22,50.0,Flood
@@ -9508,7 +9508,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2023-03-27,Swat,Sugarcane,32.9,45.8,246.3,17847310,6.11,203.4,41.4,Flood
 2023-11-12,Mardan,Wheat,27.0,67.9,161.2,4673640,2.04,3.47,38.3,Drip
 2022-06-28,Charsadda,Maize,16.6,137.4,363.2,40198180,8.03,34.05,52.2,Flood
-2020-03-12,Dir,Cotton,30.3,,197.5,5906550,2.33,3.68,38.2,Sprinkler
+2020-03-12,Dir,Cotton,30.3,51.9,197.5,5906550,2.33,3.68,38.2,Sprinkler
 2024-07-11,Swat,Cotton,21.5,17.7,178.4,20747380,10.58,11.0,33.8,Flood
 2022-02-17,Peshawar,Cotton,22.7,59.2,164.8,1657600,0.74,1.1,41.0,Flood
 2022-10-08,Mardan,Maize,23.3,57.7,254.8,16687500,5.34,18.16,43.2,Flood
@@ -9666,7 +9666,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2022-06-04,Buner,Wheat,22.6,67.9,312.4,43544350,11.45,31.37,37.6,Flood
 2019-08-09,Charsadda,Maize,28.1,131.2,280.0,40832160,9.93,54.61,52.2,Drip
 2024-12-20,Peshawar,Wheat,10.0,62.4,209.3,18665790,6.87,11.06,44.2,Sprinkler
-2020-04-29,Charsadda,Cotton,13.9,,255.5,22176000,7.7,8.78,40.4,Sprinkler
+2020-04-29,Charsadda,Cotton,13.9,51.9,255.5,22176000,7.7,8.78,40.4,Sprinkler
 2020-01-08,Swat,Wheat,28.5,8.9,161.0,18807930,11.07,12.62,24.0,Sprinkler
 2023-11-18,Swat,Wheat,29.6,10.7,217.1,9544820,4.19,6.37,27.6,Drip
 2024-09-20,Charsadda,Rice,22.3,35.6,194.8,22579200,9.8,18.72,39.4,Flood
@@ -9701,7 +9701,7 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2019-10-02,Charsadda,Maize,6.8,7.0,187.7,8722560,4.48,6.05,23.8,Flood
 2021-02-16,Buner,Cotton,16.2,29.6,211.6,16859880,6.99,9.16,40.6,Sprinkler
 2019-03-11,Swat,Maize,15.6,67.8,270.4,26481060,7.83,24.27,42.6,Sprinkler
-2021-10-02,Mardan,Maize,20.3,,182.3,10418100,4.62,13.17,28.2,Drip
+2021-10-02,Mardan,Maize,20.3,51.9,182.3,10418100,4.62,13.17,28.2,Drip
 2019-11-18,Charsadda,Wheat,26.8,18.6,258.1,24792320,8.96,18.64,38.7,Flood
 2019-03-10,Buner,Wheat,32.2,102.2,358.6,37048320,8.04,18.57,51.4,Flood
 2020-01-08,Charsadda,Wheat,20.4,260.0,118.0,4384800,1.16,3.92,56.5,Drip
@@ -9840,21 +9840,21 @@ Date,Region,Crop_Type,Temperature_C,Rainfall_mm,Irrigation_mm,Water_Used_Liters,
 2024-04-03,Buner,Maize,33.0,35.5,232.3,10015720,3.74,8.53,37.6,Flood
 2020-12-12,Mardan,Wheat,21.7,115.6,118.7,7146150,3.05,6.86,33.3,Drip
 2019-11-10,Dir,Wheat,28.8,215.0,171.3,26036620,6.74,19.14,43.6,Sprinkler
-2018-05-11,Mardan,Rice,25.9,,304.3,31866000,9.04,30.46,45.1,Sprinkler
+2018-05-11,Mardan,Rice,25.9,51.9,304.3,31866000,9.04,30.46,45.1,Sprinkler
 2019-11-24,Peshawar,Rice,22.5,69.9,240.0,8119380,2.62,7.52,44.8,Sprinkler
 2023-01-31,Buner,Maize,31.8,20.8,183.2,7486800,3.67,7.27,27.6,Flood
 2020-01-04,Charsadda,Wheat,20.6,67.2,281.0,28343480,8.14,22.87,49.3,Flood
 2021-11-12,Swat,Wheat,9.7,128.9,193.2,26347780,8.18,16.11,42.7,Sprinkler
 2019-07-03,Peshawar,Wheat,26.8,55.4,375.1,6414450,1.49,4.23,41.1,Flood
 2024-06-27,Dir,Rice,25.5,106.3,134.0,3340170,1.39,4.17,40.5,Drip
-2024-04-23,Peshawar,Wheat,20.8,,222.9,15904540,6.22,11.57,36.4,Flood
+2024-04-23,Peshawar,Wheat,20.8,51.9,222.9,15904540,6.22,11.57,36.4,Flood
 2023-08-27,Mardan,Wheat,18.8,10.8,155.7,16849800,10.12,15.89,29.2,Drip
 2023-02-17,Swat,Maize,14.1,41.3,183.2,6847250,3.05,6.16,39.2,Flood
 2021-12-30,Mardan,Sugarcane,22.5,32.0,250.1,33795580,11.98,502.44,46.3,Sprinkler
 2018-01-22,Dir,Maize,18.9,101.6,178.0,33524040,11.99,33.45,,Drip
 2018-04-21,Swat,Wheat,31.8,102.8,242.1,25626070,7.43,16.49,43.2,Sprinkler
 2021-02-07,Peshawar,Cotton,28.6,19.5,256.8,31912650,11.55,18.48,29.3,Flood
-2023-04-06,Mardan,Maize,21.6,,267.0,17148320,5.02,17.32,47.3,Flood
+2023-04-06,Mardan,Maize,21.6,51.9,267.0,17148320,5.02,17.32,47.3,Flood
 2018-11-29,Swat,Maize,28.7,89.6,360.4,28215000,6.27,26.4,52.5,Flood
 2021-11-03,Charsadda,Wheat,24.2,36.7,255.7,25117160,8.59,17.87,35.7,Sprinkler
 2024-09-04,Mardan,Wheat,23.1,58.9,138.3,2583320,1.31,1.86,31.0,Flood
